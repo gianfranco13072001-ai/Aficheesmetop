@@ -1,0 +1,4167 @@
+[
+  {
+    "id_afiche": "f01_1",
+    "caracteristicas": {
+      "texto_principal": "STOLBIZER",
+      "texto_secundario": "LA ARGENTINA QUE QUEREMOS",
+      "texto_complementario": "PROGRE SISTAS",
+      "elemento_grafico": {
+        "tipo": "flor",
+        "descripcion": "margarita",
+        "posicion": "reemplaza la letra 'O' en 'STOLBIZER'"
+      },
+      "simbolo_texto": {
+        "descripcion": "texto 'PROGRE SISTAS' escrito en forma de bandera o cartel",
+        "estilo": "escrito a mano (handwriting)"
+      },
+      "paleta_de_colores": {
+        "fondo": "azul cielo con degradado blanco",
+        "texto_principal": "blanco",
+        "texto_secundario": "blanco",
+        "texto_complementario": "negro",
+        "flor": [
+          "blanco",
+          "amarillo"
+        ]
+      },
+      "tipografia": {
+        "titulo": "sans-serif, gruesa, en mayúsculas",
+        "subtitulo": "sans-serif, peso medio, en mayúsculas"
+      }
+    }
+  },
+  {
+    "id_afiche": "f01_2",
+    "caracteristicas": {
+      "candidata": {
+        "nombre": "Margarita Stolbizer",
+        "descripcion_visual": "Mujer de cabello rubio, mirada frontal, vistiendo una prenda roja"
+      },
+      "textos": {
+        "eslogan_principal": "PROGRESISTAS",
+        "cargo_buscado": "PRECANDIDATA A PRESIDENTA DE LA NACIÓN",
+        "lista": "LISTA IGUALDAD Y DECENCIA",
+        "siglas": "MS",
+        "nombre_candidata": "STOLBIZER",
+        "orden_candidata": "1. MARGARITA"
+      },
+      "colores_predominantes": [
+        "azul",
+        "blanco",
+        "rojo",
+        "rosa"
+      ],
+      "tipografia": {
+        "estilo_nombre": "sans-serif, negrita, mayúsculas, color blanco",
+        "estilo_eslogan": "estilo manuscrito informal para 'PROGRE' y tipografía de palo seco para 'SISTAS'"
+      },
+      "elementos_graficos": {
+        "fondo": "plano color azul",
+        "distribucion": "vertical, con la imagen de la candidata centrada y el nombre en la parte inferior"
+      }
+    }
+  },
+  {
+    "id_afiche": "f01_3",
+    "caracteristicas": {
+      "texto_principal": "VICTORIA ES QUE PAREN DE ROBAR",
+      "texto_secundario": "STOLBIZER Presidenta",
+      "hashtag": "#LaArgentinaQueQueremos",
+      "texto_adicional": "PROGRESISTAS",
+      "personas_retratadas": [
+        "Máximo Kirchner",
+        "Cristina Fernández de Kirchner",
+        "Aníbal Fernández"
+      ],
+      "disposicion_imagen": "collage de tres retratos fotográficos en primer plano",
+      "colores_predominantes": [
+        "blanco",
+        "azul",
+        "negro"
+      ],
+      "elementos_graficos": [
+        "margarita como parte del nombre Stolbizer",
+        "fondo de cielo celeste",
+        "bandera o poste pequeño con la palabra PROGRESISTAS"
+      ],
+      "tipografia": "Sans serif, gruesa, en mayúsculas"
+    }
+  },
+  {
+    "id_afiche": "f01_4",
+    "caracteristicas": {
+      "persona": {
+        "presencia": true,
+        "tipo": "fotografía",
+        "sujeto": "mujer adulta",
+        "vestimenta": "prenda blanca",
+        "fondo": "paisaje natural desenfocado en tonos verdes"
+      },
+      "texto": {
+        "jerarquia_superior": "PRESIDENTA",
+        "nombre_candidata": "STOLBIZER",
+        "eslogan": "EL VOTO GANADO",
+        "etiqueta_esquina": "LISTA 132",
+        "etiqueta_inferior_izquierda": "PROGRE SISTAS"
+      },
+      "diseno": {
+        "colores_predominantes": [
+          "blanco",
+          "verde",
+          "azul"
+        ],
+        "tipografia": "sans-serif, mayúsculas, negrita",
+        "elementos_graficos": [
+          "triángulo azul en la esquina inferior derecha",
+          "marca de agua de texto en la parte inferior izquierda"
+        ]
+      }
+    }
+  },
+  {
+    "id_afiche": "f01_5",
+    "caracteristicas": {
+      "candidata_presidenta": {
+        "nombre": "MARGARITA STOLBIZER",
+        "texto_rol": "Precandidata a PRESIDENTA DE LA NACIÓN",
+        "imagen": "mujer rubia, mirada frontal, vestida con chaqueta clara"
+      },
+      "candidato_vice": {
+        "nombre": "MIGUEL ÁNGEL OLAVIAGA",
+        "texto_rol": "Precandidato a VICE PRESIDENTE DE LA NACIÓN",
+        "imagen": "hombre con lentes y bigote, vestimenta formal con camisa, corbata y suéter"
+      },
+      "elementos_textuales_adicionales": {
+        "lema": "PROGRESISTAS"
+      },
+      "diseno": {
+        "paleta_colores": [
+          "azul",
+          "blanco"
+        ],
+        "disposicion": "disposición vertical dividida en dos paneles horizontales",
+        "tipografia": "sans-serif, mayúsculas, negrita"
+      }
+    }
+  },
+  {
+    "id_afiche": "f02_1",
+    "caracteristicas": {
+      "texto_principal": "+A15",
+      "nombre_candidato": "MASSA",
+      "cargo_y_nombre": "INTENDENTE JULIO ZAMORA",
+      "colores_texto_principal": {
+        "simbolo_mas": "amarillo",
+        "letra_a": "rojo",
+        "numero_1": "blanco",
+        "numero_5": "celeste"
+      },
+      "colores_fondo": "azul oscuro",
+      "colores_texto_secundario": "blanco",
+      "tipografia": "sans-serif",
+      "tipo_de_soporte": "cartel publicitario urbano",
+      "elementos_estructurales": [
+        "estructura metalica",
+        "luces de iluminacion superior"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f03_1",
+    "caracteristicas": {
+      "persona_principal": "hombre adulto sonriente con cabello oscuro, vistiendo una chaqueta oscura y camisa",
+      "fondo_imagen_principal": "parcialmente desenfocado, sugiere banderas en un entorno institucional o exterior",
+      "textos": {
+        "lema": "LA IDEA ES SUMAR PARA EL FUTURO.",
+        "marca_politica": "+a",
+        "texto_secundario": "SEGURO"
+      },
+      "colores_predominantes": {
+        "texto_lema": "blanco sobre fondo rojo",
+        "marca_politica": "amarillo para el símbolo '+' y rojo para la letra 'a'",
+        "fondo_derecho": "negro",
+        "texto_secundario": "blanco"
+      },
+      "tipografia": {
+        "lema": "sans-serif, mayúsculas",
+        "marca_politica": "sans-serif, negrita, tamaño grande",
+        "texto_secundario": "sans-serif, letras espaciadas"
+      },
+      "elementos_adicionales": "coche negro en primer plano con efecto de movimiento"
+    }
+  },
+  {
+    "id_afiche": "f03_2",
+    "caracteristicas": {
+      "personaje_principal": {
+        "descripcion": "Hombre de tez clara, cabello oscuro, vestido con traje oscuro, camisa blanca y corbata oscura",
+        "posicion": "Lado izquierdo, primer plano, plano medio"
+      },
+      "textos": {
+        "principal": "EL CAMBIO JUSTO",
+        "secundario": "+A15",
+        "nombre_candidato": "MASSA"
+      },
+      "colores": {
+        "fondo": "Gris oscuro con degradado",
+        "texto_principal": [
+          "Azul claro",
+          "Blanco"
+        ],
+        "logo_secundario": [
+          "Amarillo",
+          "Rojo",
+          "Azul claro"
+        ]
+      },
+      "tipografia": {
+        "estilo": "Sans-serif, negrita, mayúsculas"
+      },
+      "elementos_visuales": {
+        "simbolo": "Signo más (+)",
+        "disposicion": "Texto ubicado a la derecha del personaje, signo y nombre en la parte inferior derecha"
+      }
+    }
+  },
+  {
+    "id_afiche": "f03_3",
+    "caracteristicas": {
+      "disposicion": "cuadrícula de 2x2 afiches idénticos",
+      "fondo": "negro",
+      "elementos_visuales": [
+        {
+          "tipo": "símbolo",
+          "descripcion": "signo más (+) de color rojo ubicado antes de la palabra argentina"
+        },
+        {
+          "tipo": "símbolo",
+          "descripcion": "signo más (+) de color rojo ubicado antes de la frase ahora que nunca."
+        }
+      ],
+      "texto": {
+        "principal": "argentina",
+        "secundario": "ahora que nunca."
+      },
+      "tipografia": {
+        "estilo": "sans-serif, bold",
+        "color_principal": "blanco para la palabra argentina, con la letra 't' de color azul",
+        "color_secundario": "amarillo para la frase ahora que nunca."
+      }
+    }
+  },
+  {
+    "id_afiche": "f03_4",
+    "caracteristicas": {
+      "fondo": "negro",
+      "elementos_textuales": {
+        "lista_puntos": [
+          "+seguridad",
+          "+justicia"
+        ],
+        "candidato": "MASSA",
+        "slogan_partido": "Frente Renovador"
+      },
+      "simbolos": {
+        "tipo_simbolo": "signo mas",
+        "colores_simbolo": [
+          "amarillo",
+          "amarillo"
+        ]
+      },
+      "tipografia": {
+        "estilo": "sans-serif",
+        "color_texto": "blanco",
+        "color_nombre_candidato": "amarillo",
+        "color_partido": "rojo"
+      },
+      "logotipo_candidato": {
+        "simbolo": "+",
+        "letra": "a",
+        "colores": [
+          "amarillo",
+          "rojo"
+        ]
+      }
+    }
+  },
+  {
+    "id_afiche": "f03_5",
+    "caracteristicas": {
+      "personas": [
+        {
+          "descripcion": "Hombre de cabello canoso, vistiendo traje oscuro, camisa clara y corbata azul claro, caminando hacia la izquierda"
+        },
+        {
+          "descripcion": "Sergio Massa, vistiendo traje oscuro, camisa blanca y corbata a rayas rojas y azules, caminando en el centro"
+        },
+        {
+          "descripcion": "Hombre de cabello canoso, vistiendo blazer oscuro con botones metálicos y camisa clara, caminando hacia la derecha"
+        }
+      ],
+      "texto_en_imagen": {
+        "linea_1": "En la segunda vuelta,",
+        "linea_2": "SOLO MASSA LE GANA A SCIOLI"
+      },
+      "diseno": {
+        "fondo_texto": "Banda horizontal azul oscuro",
+        "estilo_tipografico": "Sans-serif en mayúsculas para la línea inferior, serif para la línea superior",
+        "tipo_de_imagen": "Fotografía exterior con luz natural diurna",
+        "ubicacion_texto": "Sobreimpreso en la parte inferior central del afiche"
+      },
+      "colores_dominantes": [
+        "Azul oscuro",
+        "Blanco",
+        "Rojo"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f03_6",
+    "caracteristicas": {
+      "eslogan": "UNA NUEVA ALTERNATIVA",
+      "fecha_elecciones": "9 DE AGOSTO DE 2015",
+      "tipo_elecciones": "ELECCIONES PRIMARIAS, ABIERTAS, SIMULTÁNEAS Y OBLIGATORIAS",
+      "personas_identificadas": [
+        {
+          "nombre": "SERGIO MASSA",
+          "rol_explicitado": "PRECANDIDATO A PRESIDENTE DE LA NACIÓN"
+        },
+        {
+          "nombre": "GUSTAVO SÁENZ",
+          "rol_explicitado": "PRECANDIDATO A VICEPRESIDENTE DE LA NACIÓN"
+        }
+      ],
+      "elementos_visuales": {
+        "logotipo_coalicion": "Letras 'UNA' estilizadas con gradiente azul",
+        "fotografias": [
+          "Sergio Massa (primer plano, traje y corbata)",
+          "Gustavo Sáenz (primer plano, camisa azul)"
+        ]
+      },
+      "colores_predominantes": [
+        "Negro",
+        "Azul",
+        "Blanco",
+        "Rojo"
+      ],
+      "tipografia": {
+        "estilo": "Sans-serif, negrita, mayúsculas"
+      },
+      "disposicion_elementos": "Distribución vertical con logo superior, imágenes centrales y bloques de texto jerarquizados"
+    }
+  },
+  {
+    "id_afiche": "f04_1",
+    "caracteristicas": {
+      "encabezado": {
+        "alianza": "Alianza Compromiso Federal",
+        "tipo_voto": "Voto para precandidato a presidente y vicepresidente"
+      },
+      "candidato_presidencial": {
+        "nombre": "Adolfo Rodriguez Saa",
+        "cargo": "Presidente",
+        "imagen": "hombre de tez clara, cabello corto oscuro, sonriendo, vistiendo camisa blanca"
+      },
+      "candidato_vicepresidencial": {
+        "nombre": "Liliana Negre de Alonso",
+        "cargo": "Vicepresidente",
+        "imagen": "mujer de cabello rubio hasta los hombros, vistiendo chaqueta oscura con estampado geométrico claro"
+      },
+      "diseno_visual": {
+        "paleta_colores": [
+          "azul claro",
+          "blanco",
+          "negro"
+        ],
+        "tipografia": "sans-serif, negrita, mayúsculas",
+        "disposicion": "disposición vertical dividida en tres bloques horizontales"
+      }
+    }
+  },
+  {
+    "id_afiche": "f04_2",
+    "caracteristicas": {
+      "personaje": {
+        "identidad": "Adolfo Rodriguez Saa",
+        "vestimenta": "traje oscuro, camisa blanca, corbata azul con puntos blancos",
+        "expresion": "sonriente",
+        "orientacion": "mirando hacia el frente"
+      },
+      "texto": {
+        "linea_1": "EN ARGENTINA ES HORA DE SUMAR",
+        "linea_2": "SUMATE",
+        "linea_3": "ADOLFO RODRIGUEZ SAA",
+        "linea_4": "PRESIDENTE 2015"
+      },
+      "estetica": {
+        "paleta_colores": [
+          "negro",
+          "blanco",
+          "azul",
+          "celeste"
+        ],
+        "fondo": "degradado de azul a negro con una representación estilizada de una bandera en el costado izquierdo",
+        "tipografia": "sans-serif, mayúsculas, negrita"
+      },
+      "composicion": {
+        "distribucion": "texto alineado a la izquierda, personaje ubicado a la derecha",
+        "fondo_dinamico": "elementos abstractos que sugieren movimiento o una bandera argentina en el lado izquierdo"
+      }
+    }
+  },
+  {
+    "id_afiche": "f05_1",
+    "caracteristicas": {
+      "cabecera": {
+        "texto": "CON LA FUERZA DE LOS TRABAJADORES, LAS MUJERES Y LA JUVENTUD",
+        "fondo": "negro",
+        "color_texto": "amarillo"
+      },
+      "personas": [
+        {
+          "nombre": "MYRIAM BREGMAN",
+          "rol": "VICEPRESIDENTA",
+          "imagen_tipo": "fotografia_primer_plano"
+        },
+        {
+          "nombre": "NICOLAS DEL CAÑO",
+          "rol": "PRESIDENTE",
+          "imagen_tipo": "fotografia_primer_plano"
+        },
+        {
+          "nombre": "CHRISTIAN CASTILLO",
+          "rol": "GOBERNADOR",
+          "imagen_tipo": "fotografia_primer_plano"
+        }
+      ],
+      "cuerpo_central": {
+        "texto_inferior": "Pre candidatos del PTS en el",
+        "texto_principal": "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
+        "fondo_texto_principal": "rojo",
+        "tipografia": "sans-serif_bold"
+      },
+      "paleta_colores": [
+        "negro",
+        "amarillo",
+        "rojo",
+        "blanco"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f06_1",
+    "caracteristicas": {
+      "textos": {
+        "encabezado": "¿Sabías que Macri defiende a la Barrick y la megaminería contaminante?",
+        "cuerpo": "¿Y que Scioli también?",
+        "llamado_a_la_accion": "VOTÁ EN BLANCO"
+      },
+      "colores": {
+        "fondo_superior": "#f2f2f2",
+        "fondo_medio": "#005a9c",
+        "fondo_inferior": "#d12228",
+        "texto_negro": "#000000",
+        "texto_blanco": "#ffffff",
+        "color_destacado_scioli": "#f68d2e",
+        "paleta_decorativa": [
+          "#ffff99",
+          "#f68d2e",
+          "#d12228",
+          "#d94d8d",
+          "#88439b",
+          "#005a9c",
+          "#50b8e7"
+        ]
+      },
+      "elementos_visuales": {
+        "decoracion": "Barras horizontales de franjas multicolores arriba y abajo del texto central",
+        "simbolo": "Forma geométrica blanca similar a una cinta sobre fondo rojo en la parte inferior izquierda",
+        "disposicion": "Estructura de tres bloques horizontales definidos por colores de fondo"
+      },
+      "tipografia": {
+        "estilo": "Sans-serif geométrica, negrita y de alto contraste"
+      }
+    }
+  },
+  {
+    "id_afiche": "f06_2",
+    "caracteristicas": {
+      "paleta_de_colores": [
+        "negro",
+        "blanco",
+        "gris"
+      ],
+      "texto_principal": [
+        "NI MACRI NI SCIOLI",
+        "CON LA IZQUIERDA",
+        "VOTÁ EN BLANCO"
+      ],
+      "texto_secundario": [
+        "HAGAMOS HISTORIA",
+        "Como en el BALLOTAGE",
+        "DE CAPITAL FEDERAL",
+        "VAMOS POR 2 MILLONES DE VOTOS"
+      ],
+      "texto_inferior": [
+        "TPR",
+        "TENDENCIA PIQUETERA",
+        "REVOLUCIONARIA"
+      ],
+      "simbolos": [
+        "logo de TPR (combinación de un número 4 con una antorcha encendida sobre una base redonda)"
+      ],
+      "elementos_visuales": [
+        "fotografía monocromática en la parte central inferior que muestra una multitud de personas de espaldas o en segundo plano"
+      ],
+      "estilo_tipografico": "sans-serif, negrita, mayúsculas"
+    }
+  },
+  {
+    "id_afiche": "f06_3",
+    "caracteristicas": {
+      "persona_principal": {
+        "descripcion": "Hombre joven, barba, cabello oscuro, vistiendo saco oscuro y camisa clara",
+        "posicion": "Lado derecho, mirando al frente"
+      },
+      "texto_principal": {
+        "linea_1": "Pasar al frente",
+        "linea_2": "en todo el país",
+        "linea_3": "Solo con tu voto",
+        "linea_4": "es posible"
+      },
+      "partido_politico": {
+        "nombre": "FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
+        "formato": "Caja rectangular con diseño inclinado"
+      },
+      "candidato": {
+        "nombre": "NICOLÁS DEL CAÑO",
+        "año": "2015"
+      },
+      "redes_sociales": {
+        "facebook": "NicolasdelCano",
+        "twitter": "@NicolasdelCano"
+      },
+      "paleta_de_colores": [
+        "amarillo",
+        "rojo",
+        "blanco",
+        "negro"
+      ],
+      "fondo": "Desenfocado, parece una calle o espacio público con personas"
+    }
+  },
+  {
+    "id_afiche": "f06_4",
+    "caracteristicas": {
+      "paleta_de_colores": [
+        "blanco",
+        "negro",
+        "gris"
+      ],
+      "textos": [
+        "CONTRA los 5 CANDIDATOS del IMPERIALISMO",
+        "DEL CAÑO PRESIDENTE",
+        "Votá DISTINTO, votá a la IZQUIERDA",
+        "VIVA la 60, TANINEROS y ACEITEROS",
+        "NO a la DEVALUACIÓN, AJUSTE, TARIFAZOS, DESPIDOS y SUSPENSIONES",
+        "NO a los GOBIERNOS INUNDADORES",
+        "TPR TENDENCIA PIQUETERA REVOLUCIONARIA"
+      ],
+      "elementos_graficos": [
+        "fondo_de_multitud_en_escala_de_grises",
+        "logo_con_martillo_y_fuego_estilizado",
+        "recuadros_de_texto_con_fondo_negro_y_blanco"
+      ],
+      "tipo_de_tipografia": "sans_serif_bold_mayusculas",
+      "elementos_identificados": [
+        "manifestacion",
+        "simbolo_politico",
+        "texto_politico"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f07_1",
+    "caracteristicas": {
+      "texto_principal": "Cuida la Asignacion Universal por Hijo",
+      "texto_secundario": "Que Dios, la Patria y el Futuro lo demandan",
+      "lema_superior": "Vota por vos",
+      "partido_sigla": "VXV",
+      "partido_nombre": "VICTORIA",
+      "candidatos": [
+        {
+          "nombre": "DANIEL SCIOLI",
+          "cargo": "PRESIDENTE"
+        },
+        {
+          "nombre": "ANIBAL FERNANDEZ",
+          "cargo": "GOBERNADOR"
+        },
+        {
+          "nombre": "HORACIO GONZALEZ",
+          "cargo": "DIPUTADO"
+        }
+      ],
+      "imagen_central": "Primer plano de una niña sonriendo",
+      "paleta_colores": [
+        "blanco",
+        "turquesa",
+        "verde"
+      ],
+      "tipografia": "Sans-serif, negrita",
+      "disposicion_texto": "Texto centrado",
+      "seccion_inferior": "Franja color turquesa con nombres de candidatos y cargos"
+    }
+  },
+  {
+    "id_afiche": "f08_1",
+    "caracteristicas": {
+      "imagen_principal": "primer plano de una niña sonriendo con el cabello oscuro",
+      "texto_destacado": "Cuida la Asignacion Universal por Hijo",
+      "lema_secundario": "Que Dios, la Patria y el Futuro lo demandan",
+      "leyenda_superior": "Vota por vos",
+      "candidatos": [
+        {
+          "nombre": "DANIEL SCIOLI",
+          "cargo": "PRESIDENTE"
+        },
+        {
+          "nombre": "ANIBAL FERNANDEZ",
+          "cargo": "GOBERNADOR"
+        },
+        {
+          "nombre": "HORACIO GONZALEZ",
+          "cargo": "DIPUTADO"
+        }
+      ],
+      "identidad_grafica": {
+        "logotipos": [
+          "VXV",
+          "VICTORIA"
+        ],
+        "colores_predominantes": [
+          "cian",
+          "blanco",
+          "gris"
+        ]
+      },
+      "disposicion_elementos": "foto de la niña en la parte superior central, texto en el centro, lista de candidatos en la franja inferior sobre fondo cian"
+    }
+  },
+  {
+    "id_afiche": "f09_1",
+    "caracteristicas": {
+      "texto_superior": "Daniel eligió a Cristina",
+      "texto_central": "En la vida hay que elegir",
+      "texto_inferior_centro": "FRENTE PARA LA VICTORIA",
+      "texto_inferior_final": "NUEVO ENCUENTRO",
+      "personas": [
+        {
+          "descripcion": "Hombre de tez clara, traje oscuro y corbata, ubicado a la izquierda"
+        },
+        {
+          "descripcion": "Mujer de cabello oscuro, saludando con la mano derecha, ubicada a la derecha"
+        }
+      ],
+      "colores_predominantes": [
+        "Azul",
+        "Blanco"
+      ],
+      "tipografia": "Sans-serif",
+      "elementos_graficos": {
+        "fondo": "Color azul plano",
+        "marco_logo": "Rectángulo blanco para el texto del Frente para la Victoria"
+      }
+    }
+  },
+  {
+    "id_afiche": "f09_2",
+    "caracteristicas": {
+      "texto_principal": "EL CORAZON DE CARLOS PAZ.",
+      "texto_secundario": "SCIOLI PRESIDENTE",
+      "elementos_visuales": {
+        "imagen_central": "Puente iluminado de noche sobre un cuerpo de agua",
+        "iluminacion": "Luces artificiales amarillas en la parte superior y luces LED azules en la base de los pilares del puente",
+        "entorno": "Paisaje nocturno con reflejo de las luces en el agua"
+      },
+      "tipografia": {
+        "estilo_titulo": "Sans-serif, negrita, color blanco",
+        "estilo_nombre": "Sans-serif, negrita, color blanco",
+        "estilo_cargo": "Sans-serif, color blanco"
+      },
+      "elementos_graficos": {
+        "linea_decorativa": "Linea horizontal de color naranja debajo del texto 'PRESIDENTE'"
+      },
+      "colores_predominantes": [
+        "Negro",
+        "Azul",
+        "Blanco",
+        "Naranja",
+        "Amarillo"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f09_3",
+    "caracteristicas": {
+      "texto_principal": "NO HAY EMPRESARIOS SIN ESTADO, NI DESARROLLO ECONÓMICO SIN EMPRESARIOS.",
+      "eslogan": "SCIOLI PARA LA VICTORIA",
+      "persona_principal": "Daniel Scioli",
+      "elementos_visuales": {
+        "foto_sujeto": "Primer plano, busto, hombre con traje y corbata azul",
+        "fondo": "Pantalla digital de fondo color azul sólido",
+        "escenario": "Atril con la leyenda 'SCIOLI PARA LA VICTORIA' frente a una audiencia"
+      },
+      "estilo_visual": {
+        "tipografia": "Sans-serif, negrita, mayúsculas",
+        "colores_dominantes": [
+          "azul",
+          "blanco"
+        ],
+        "composicion": "Imagen del candidato a la izquierda, eslogan y texto en la pantalla a la derecha"
+      }
+    }
+  },
+  {
+    "id_afiche": "f09_4",
+    "caracteristicas": {
+      "fondo": "Azul sólido",
+      "texto_principal": "22/11 = DOS",
+      "subtexto_nombre": "DANIEL OSVALDO SCIOLI",
+      "lema": "LOS NÚMEROS NO MIENTEN",
+      "elementos_graficos": [
+        "Línea horizontal naranja"
+      ],
+      "logos_y_marcas": {
+        "leyenda_izq": "SCIOLI PRESIDENTE ZANNINI VICEPRESIDENTE",
+        "leyenda_der": "LA CAMPORA EXACTAS"
+      },
+      "tipografia": "Sans-serif en mayúsculas",
+      "colores": [
+        "Azul",
+        "Blanco",
+        "Naranja"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f09_5",
+    "caracteristicas": {
+      "texto": [
+        "TUS DERECHOS",
+        "O",
+        "MACRI",
+        "SCIOLI PRESIDENTE",
+        "LA CAMPORA",
+        "FRENTE PARA LA VICTORIA"
+      ],
+      "colores": {
+        "fondo": [
+          "azul claro",
+          "negro"
+        ],
+        "tipografia": [
+          "azul",
+          "blanco"
+        ]
+      },
+      "elementos_graficos": {
+        "efecto_visual": "tramado de puntos (halftone) en la parte superior",
+        "separacion": "franja diagonal negra con textura rugosa que divide el diseño",
+        "logos": [
+          "logo de La Campora",
+          "logo de Frente para la Victoria"
+        ]
+      },
+      "tipografia": {
+        "estilo": "sans-serif, bold, diseño robusto y condensado",
+        "alineacion": "centrada"
+      }
+    }
+  },
+  {
+    "id_afiche": "f09_6",
+    "caracteristicas": {
+      "texto_principal": [
+        "SCIOLI SOMOS TODOS",
+        "SCIOLI PRESIDENTE"
+      ],
+      "disposicion_visual": "rejilla de 3x3 que contiene nueve retratos estilizados del mismo hombre, con diferentes atuendos y accesorios, sobre fondos de distintos colores sólidos",
+      "paleta_de_colores": {
+        "fondos": [
+          "cian",
+          "magenta",
+          "naranja",
+          "violeta",
+          "rojo",
+          "verde",
+          "amarillo",
+          "azul",
+          "fucsia"
+        ],
+        "ilustraciones": "estilo pop art con contornos negros y sombreados en tonos azules sobre fondo blanco"
+      },
+      "tipografia": "sans-serif, geométrica, en mayúsculas, color blanco",
+      "descripciones_retratos": {
+        "fila_superior": [
+          "hombre con cuello clerical",
+          "hombre con casco de construcción",
+          "hombre con bata médica o de laboratorio"
+        ],
+        "fila_media": [
+          "hombre con camisa y corbata",
+          "hombre con gorro de cocinero",
+          "hombre con boina"
+        ],
+        "fila_inferior": [
+          "hombre con anteojos",
+          "hombre con gorro de lana con rayas",
+          "hombre con gorro o uniforme médico"
+        ]
+      }
+    }
+  },
+  {
+    "id_afiche": "f09_7",
+    "caracteristicas": {
+      "texto_principal": [
+        "SOBERANÍA Y DESARROLLO",
+        "PARA LA VICTORIA"
+      ],
+      "nombres_candidatos": [
+        "DANIEL SCIOLI",
+        "CARLOS ZANNINI",
+        "AGUSTÍN ROSSI"
+      ],
+      "datos_evento": {
+        "fecha": "Jueves 16 de julio",
+        "hora": "9:30 hs",
+        "lugar": "SALA SIRANUSH",
+        "direccion": "Armenia 1353 C.A.B.A"
+      },
+      "texto_pie_de_foto": "ARSAT - 1 es soberanía satelital.",
+      "colores_predominantes": [
+        "azul",
+        "blanco",
+        "naranja"
+      ],
+      "elementos_visuales": {
+        "fondo": "fotografía de un satélite en proceso de ensamblaje con técnicos trabajando en el fondo",
+        "simbolo": "logo del Frente para la Victoria",
+        "bandera": "bandera de Argentina visible en la parte superior central"
+      },
+      "redes_sociales": {
+        "web": "agustinrossi.com",
+        "facebook": "/RossiAgustin",
+        "twitter": "@RossiAgustinOk"
+      }
+    }
+  },
+  {
+    "id_afiche": "f09_8",
+    "caracteristicas": {
+      "texto_superior": "LA VICTORIA DE LA EDUCACIÓN.",
+      "fondo_superior": "Verde oscuro similar a un pizarrón",
+      "elemento_visual": "Persona vista de espaldas con remera roja escribiendo 'A B C D' en el pizarrón",
+      "fondo_inferior": "Azul",
+      "texto_inferior_principal": "SCIOLI ZANNINI PARA LA VICTORIA",
+      "elementos_inferiores": {
+        "logo_partido": "Escudo pequeño a la izquierda",
+        "slogan_secundario": "FRENTE PARA LA VICTORIA"
+      },
+      "colores_predominantes": [
+        "verde",
+        "rojo",
+        "azul",
+        "blanco"
+      ],
+      "tipografia": "Sans serif, letras mayúsculas en negrita"
+    }
+  },
+  {
+    "id_afiche": "f09_9",
+    "caracteristicas": {
+      "texto_principal": "DESARROLLO ES NUEVOS TRENES EN TODO EL PAIS.",
+      "texto_candidatos": {
+        "presidencia": "SCIOLI PRESIDENTE",
+        "vicepresidencia": "ZANNINI VICEPRESIDENTE"
+      },
+      "elementos_visuales": {
+        "imagen_central": "Tren de pasajeros moderno en una estación",
+        "detalles_tren": "Se observa la leyenda 'Trenes Argentinos' en el lateral del vagón"
+      },
+      "diseno": {
+        "fondo_izquierdo": "Imagen fotográfica del tren",
+        "fondo_derecho": "Panel de color azul sólido",
+        "franja_vertical": "Franja delgada de color naranja que separa el fondo izquierdo del derecho"
+      },
+      "tipografia": {
+        "texto_principal": "Sans serif, mayúsculas, negrita, color blanco",
+        "texto_candidatos": "Sans serif, mayúsculas, color blanco"
+      },
+      "elementos_adicionales": {
+        "logo_pequeno": "Logo institucional en el margen inferior derecho sobre el fondo azul",
+        "texto_logo": "VICTORIA"
+      }
+    }
+  },
+  {
+    "id_afiche": "f09_10",
+    "caracteristicas": {
+      "texto_principal": "CON MÁS FE Y ESPERANZA QUE NUNCA.",
+      "texto_secundario": "SCIOLI ZANNINI PARA LA VICTORIA",
+      "personas": [
+        {
+          "descripcion": "Hombre de perfil, mirando a la derecha, vistiendo traje oscuro, camisa clara y corbata azul."
+        },
+        {
+          "descripcion": "Mujer de perfil, mirando a la izquierda, cabello rubio, vistiendo prenda gris."
+        }
+      ],
+      "escenario": "Multitud en evento político con confeti cayendo.",
+      "colores_dominantes": [
+        "azul",
+        "blanco",
+        "naranja"
+      ],
+      "tipografia": "Sans-serif, negrita, mayúsculas.",
+      "simbolos": [
+        {
+          "descripcion": "Logotipo que representa un brazo con antorcha sobre fondo rectangular (ubicado inferior derecho)."
+        },
+        {
+          "descripcion": "Logotipo con texto 'FRENTE PARA LA VICTORIA' sobre fondo azul (ubicado inferior derecho)."
+        }
+      ]
+    }
+  },
+  {
+    "id_afiche": "f09_11",
+    "caracteristicas": {
+      "texto_principal": "LA VICTORIA DE UN PAÍS.",
+      "sujeto_principal": "hombre de mediana edad con cabello canoso, vistiendo traje y camisa, hablando ante un micrófono",
+      "fondo": "imagen de una bandera de Argentina ondeando con efectos de partículas cayendo",
+      "colores_predominantes": [
+        "azul",
+        "blanco",
+        "celeste"
+      ],
+      "estilo_tipografico": "sans-serif, negrita, alineado a la izquierda, color blanco",
+      "composicion": "texto a la izquierda, sujeto en perfil derecho, bandera ocupando el plano general de fondo"
+    }
+  },
+  {
+    "id_afiche": "f10_1",
+    "caracteristicas": {
+      "composicion_general": "tres imagenes superpuestas tipo collage con bordes blancos",
+      "persona_principal": "Mauricio Macri, aparece en las tres fotografias",
+      "elementos_visuales": [
+        {
+          "imagen_1": {
+            "descripcion": "Mauricio Macri visitando una obra con trabajadores con cascos amarillos",
+            "texto_superpuesto": "Mauricio presidente. 10% de energia solar y eolica en 4 años.",
+            "marca_de_agua_texto": "EN ORSAI"
+          }
+        },
+        {
+          "imagen_2": {
+            "descripcion": "Mauricio Macri conversando con una mujer",
+            "texto_superpuesto": "Mauricio presidente. 1 millon de creditos para viviendas.",
+            "marca_de_agua_texto": "EN ORSAI"
+          }
+        },
+        {
+          "imagen_3": {
+            "descripcion": "Mauricio Macri con casco verde saludando a un trabajador en una obra vial",
+            "texto_superpuesto": "Mauricio presidente. 2000 km de autopistas",
+            "marca_de_agua_texto": "EN ORSAI"
+          }
+        }
+      ],
+      "identidad_visual": {
+        "logotipo_partido": "Cambiemos",
+        "patrones_graficos": "formas geometricas rectangulares en las esquinas con colores azul, cian, amarillo, naranja y magenta"
+      },
+      "tipografia": "Sans serif, blanca, color predominante sobre fondo oscuro",
+      "estilo_fotografico": "fotografia documental de estilo proselitista/campaña"
+    }
+  },
+  {
+    "id_afiche": "f10_2",
+    "caracteristicas": {
+      "textos": {
+        "encabezado": "MACRI",
+        "subencabezado": "PRESIDENTE",
+        "cuerpo_principal": "100 METROS",
+        "pie_de_cuerpo": "DE SUBTE POR AÑO",
+        "slogan": "Vamos juntos.",
+        "logo_marca": "Cambiemos"
+      },
+      "diseno": {
+        "colores_predominantes": [
+          "blanco",
+          "negro",
+          "amarillo",
+          "naranja",
+          "rojo",
+          "magenta",
+          "violeta",
+          "azul"
+        ],
+        "elementos_graficos": [
+          "franja horizontal con bloques de colores en la parte inferior",
+          "marco metálico exterior",
+          "linea divisoria horizontal bajo 'PRESIDENTE'"
+        ]
+      },
+      "tipografia": {
+        "estilo": "sans-serif",
+        "peso": "negrita"
+      }
+    }
+  },
+  {
+    "id_afiche": "f10_3",
+    "caracteristicas": {
+      "personas": [
+        {
+          "nombre": "Nelly",
+          "descripcion": "Mujer de avanzada edad, cabello canoso, vista de perfil, sentada a una mesa."
+        },
+        {
+          "nombre": "Mauricio",
+          "descripcion": "Hombre de mediana edad, cabello corto castaño, vistiendo camisa a cuadros de tonos azules, sonriendo."
+        }
+      ],
+      "textos": [
+        {
+          "contenido": "Nelly",
+          "posicion": "Superior izquierda"
+        },
+        {
+          "contenido": "Mauricio",
+          "posicion": "Derecha central"
+        },
+        {
+          "contenido": "Vamos Juntos.",
+          "posicion": "Centro inferior"
+        },
+        {
+          "contenido": "pro",
+          "posicion": "Inferior central, dentro de un recuadro amarillo"
+        },
+        {
+          "contenido": "Cambiemos",
+          "posicion": "Inferior central, al lado del logo pro"
+        }
+      ],
+      "elementos_visuales": {
+        "objetos": [
+          "Mate",
+          "Canasta con panificados"
+        ],
+        "fondo": "Interior de una vivienda con silla tapizada y estantes con objetos decorativos",
+        "elementos_graficos": [
+          "Franja diagonal multicolor en esquina superior izquierda",
+          "Franja diagonal multicolor en esquina inferior derecha"
+        ]
+      },
+      "estilo": {
+        "iluminacion": "Natural y cálida",
+        "paleta_de_colores": [
+          "Azul",
+          "Blanco",
+          "Amarillo",
+          "Magenta",
+          "Violeta",
+          "Naranja"
+        ],
+        "tipografia": "Sans serif, color blanco con sombra o borde"
+      }
+    }
+  },
+  {
+    "id_afiche": "f10_4",
+    "caracteristicas": {
+      "textos": [
+        "Mauricio",
+        "Sandra",
+        "Acompañame con tu voto.",
+        "pro Cambiemos"
+      ],
+      "personas": {
+        "cantidad_total": 4,
+        "descripcion": [
+          "Hombre de cabello canoso y traje oscuro, sonriendo",
+          "Mujer de cabello rubio, vestida con suéter gris",
+          "Mujer joven de perfil mirando al hombre",
+          "Persona de espaldas en el extremo izquierdo"
+        ]
+      },
+      "colores_predominantes": [
+        "naranja",
+        "blanco",
+        "amarillo",
+        "azul",
+        "fucsia",
+        "violeta"
+      ],
+      "elementos_graficos": {
+        "figuras_geometricas": [
+          "triángulo superior izquierdo con franjas diagonales verde, azul y amarillo",
+          "bloque inferior derecho con franjas diagonales en colores vivos",
+          "rectángulo amarillo que contiene el texto pro"
+        ],
+        "tipografia": "Sans-serif, negrita en el cuerpo principal y nombre de partido",
+        "fondo": "Muro de ladrillos a la vista desenfocado"
+      },
+      "simbolos": [
+        "Logo del partido político compuesto por la palabra pro en recuadro amarillo seguido de la palabra Cambiemos"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f10_5",
+    "caracteristicas": {
+      "texto_principal": "ESTOY CON VOS.",
+      "texto_secundario": "Si querés que charlemos podés invitarme a tu casa a través de Facebook.com/mauriciomacri",
+      "firma": "Mauricio.",
+      "elementos_visuales": {
+        "sujetos": [
+          "Hombre de traje saludando a un trabajador",
+          "Trabajador con ropa naranja de seguridad",
+          "Grupo de personas en el fondo"
+        ],
+        "entorno": "Interior de una nave industrial o fábrica",
+        "objetos": [
+          "Bandera verde",
+          "Indumentaria de trabajo"
+        ]
+      },
+      "estilo_visual": {
+        "paleta_de_colores": [
+          "Blanco",
+          "Naranja",
+          "Azul",
+          "Violeta"
+        ],
+        "tipografia": "Sans-serif geométrica",
+        "tipo_de_imagen": "Fotografía realista"
+      },
+      "disposicion": {
+        "texto_ubicacion": "Parte inferior sobre fondo degradado de naranja a azul",
+        "imagen_ubicacion": "Parte superior del afiche"
+      }
+    }
+  },
+  {
+    "id_afiche": "f10_6",
+    "caracteristicas": {
+      "persona": {
+        "presencia": true,
+        "tipo": "varón",
+        "descripcion": "hombre de cabello oscuro, vestido con una camisa de color claro, sonriendo, ubicado en el sector izquierdo"
+      },
+      "texto": {
+        "eslogan": "Junto a vos somos futuro.",
+        "candidato": "Macri",
+        "año": "2015",
+        "cargo": "Presidente",
+        "informacion_contacto": {
+          "sede": "San Lorenzo 733",
+          "telefono": "497 65 69",
+          "web": "www.pro-tucuman.com.ar"
+        }
+      },
+      "simbolos": {
+        "logo_partido": "pro"
+      },
+      "diseno": {
+        "color_fondo": "amarillo",
+        "banda_inferior": "negra",
+        "tipografia": "sans-serif, negrita para el nombre del candidato y eslogan"
+      }
+    }
+  },
+  {
+    "id_afiche": "f11_1",
+    "caracteristicas": {
+      "encabezado": {
+        "texto": "SOPLAN AIRES DE CAMBIO",
+        "fondo_banda": "naranja"
+      },
+      "lista_electoral": {
+        "etiqueta": "LISTA",
+        "numero": "134",
+        "colores": [
+          "naranja",
+          "azul"
+        ]
+      },
+      "candidatos": [
+        {
+          "nombre": "HERMES BINNER",
+          "cargo": "PRESIDENTE",
+          "vestimenta": "traje oscuro, camisa blanca, corbata roja con puntos"
+        },
+        {
+          "nombre": "MARGARITA STOLBIZER",
+          "cargo": "GOBERNADORA",
+          "vestimenta": "blusa color magenta/fucsia"
+        },
+        {
+          "nombre": "MARTIN NUNZIATA",
+          "cargo": "INTENDENTE",
+          "vestimenta": "campera gris, camisa rosa, pañuelo estampado"
+        }
+      ],
+      "eslogan": {
+        "texto": "EN TIGRE ES TIEMPO DE PASAR AL FRENTE",
+        "formato": "letras blancas sobre banda azul"
+      },
+      "simbolos": {
+        "logo_partido": "estrella naranja sobre fondo azul",
+        "nombre_partido": "FRENTE AMPLIO PROGRESISTA"
+      },
+      "paleta_colores_predominante": [
+        "azul",
+        "naranja",
+        "blanco",
+        "negro"
+      ],
+      "tipografia": "sans-serif, mayúsculas"
+    }
+  },
+  {
+    "id_afiche": "f12_1",
+    "caracteristicas": {
+      "encabezado": "SOPLAN AIRES DE CAMBIO",
+      "lista_electoral": {
+        "nombre": "LISTA",
+        "numero": "134"
+      },
+      "personas": [
+        {
+          "nombre": "HERMES BINNER",
+          "cargo": "PRESIDENTE"
+        },
+        {
+          "nombre": "MARGARITA STOLBIZER",
+          "cargo": "GOBERNADORA"
+        },
+        {
+          "nombre": "MARTIN NUNZIATA",
+          "cargo": "INTENDENTE"
+        }
+      ],
+      "eslogan": "EN TIGRE ES TIEMPO DE PASAR AL FRENTE",
+      "partido_politico": "FRENTE AMPLIO PROGRESISTA",
+      "simbolo_grafico": "estrella naranja con bordes azules y blancos",
+      "colores_predominantes": [
+        "naranja",
+        "azul",
+        "blanco"
+      ],
+      "tipografia": "sans-serif, mayúsculas y negritas"
+    }
+  },
+  {
+    "id_afiche": "f13_1",
+    "caracteristicas": {
+      "texto_principal": "SUMATE AL FRENTE CON EL SOCIALISMO",
+      "texto_secundario": [
+        "PARTIDO SOCIALISTA",
+        "BINNER PRESIDENTE 2011",
+        "ROY CORTINA DIPUTADO NACIONAL",
+        "FRENTE AMPLIO PROGRESISTA"
+      ],
+      "colores_predominantes": [
+        "azul degradado",
+        "naranja"
+      ],
+      "simbolos": [
+        "icono de puño con rosa",
+        "estrella de cinco puntas de color naranja con borde blanco"
+      ],
+      "tipografia": "sans-serif, mayúsculas, negrita",
+      "composicion": "centrada"
+    }
+  },
+  {
+    "id_afiche": "f14_1",
+    "caracteristicas": {
+      "personaje": {
+        "nombre": "Binner",
+        "descripcion": "Hombre de edad mediana con cabello oscuro, vistiendo traje oscuro, camisa blanca y corbata roja con patrón.",
+        "pose": "Retrato frontal, primer plano"
+      },
+      "texto": {
+        "titulo_principal": "BINNER PRESIDENTE",
+        "eslogan": "SOPLAN AIRES DE CAMBIO",
+        "partido_politico": "FRENTE AMPLIO PROGRESISTA"
+      },
+      "estilo_visual": {
+        "colores_predominantes": [
+          "azul",
+          "blanco",
+          "naranja",
+          "negro"
+        ],
+        "tipografia": "Sans-serif, negrita, mayúsculas"
+      },
+      "simbolos": {
+        "elementos": [
+          "estrella naranja de cinco puntas dentro de un marco azul"
+        ]
+      },
+      "composicion": {
+        "disposicion": "Texto a la derecha del personaje, franja horizontal inferior con eslogan y nombre del partido"
+      }
+    }
+  },
+  {
+    "id_afiche": "f14_2",
+    "caracteristicas": {
+      "texto_principal": "BINNER",
+      "subtitulo": "PRESIDENTE",
+      "texto_secundario": "Departamento20",
+      "texto_complementario": "SANTAFESINOS EN EL PAIS",
+      "colores": {
+        "fondo": "rojo",
+        "texto_principal": "blanco",
+        "detalle_letras_n": "celeste"
+      },
+      "tipografia": "sans-serif, mayúsculas, negrita",
+      "simbolos": {
+        "descripcion": "Logotipo que combina una silueta de flor estilizada con formas geométricas",
+        "texto_asociado": "D20"
+      },
+      "diseno": {
+        "orientacion": "horizontal",
+        "estilo": "minimalista",
+        "elementos_visuales": "Dos barras verticales celestes reemplazando las letras N en la palabra BINNER"
+      }
+    }
+  },
+  {
+    "id_afiche": "f15_1",
+    "caracteristicas": {
+      "textos": {
+        "principal": "CRISTINA2011",
+        "secundario": "LA FUERZA DE UN PUEBLO"
+      },
+      "elementos_visuales": {
+        "figura_central": "Mujer de espaldas subida a un podio con el brazo derecho levantado",
+        "fondo": "Cielo al atardecer con nubes",
+        "multitud": "Grupo de personas con banderas de diversos colores",
+        "objetos": "Podio, banderas, un objeto esférico azul en el aire"
+      },
+      "colores_predominantes": [
+        "azul",
+        "celeste",
+        "blanco",
+        "dorado",
+        "rojo"
+      ],
+      "tipografia": {
+        "estilo": "sans-serif",
+        "formato": "negrita",
+        "caja": "mayúsculas"
+      }
+    }
+  },
+  {
+    "id_afiche": "f15_2",
+    "caracteristicas": {
+      "persona_principal": {
+        "descripcion": "Mujer de mediana edad",
+        "pose": "Brazo derecho levantado saludando con la mano abierta, brazo izquierdo flexionado cerca del torso",
+        "vestimenta": "Prenda oscura de cuello alto",
+        "accesorios": "Collar de perlas, reloj o pulsera en la muñeca izquierda, anillo en el dedo anular derecho"
+      },
+      "textos": {
+        "encabezado": "LA FUERZA DE LA PROFUNDIZACION",
+        "referencia_candidato": "CRISTINA 2011",
+        "pie_de_afiche": "CORRIENTE PERONISTA",
+        "sub_pie": "NACIONAL, POPULAR Y REVOLUCIONARIA"
+      },
+      "elementos_visuales": {
+        "fondo": "Multitud de personas sosteniendo banderas en un acto público",
+        "simbolos": "Sello circular en la esquina superior derecha con el rostro de una mujer y la frase 'CAMPAÑA PATRIA PARA TODOS'",
+        "icono_especial": "Estrella roja dentro de la letra 'C' en la palabra 'CORRIENTE'"
+      },
+      "estilo_grafico": {
+        "paleta_colores": [
+          "azul",
+          "blanco",
+          "negro",
+          "rojo"
+        ],
+        "tipografia": "Sans-serif en negrita, mayúsculas"
+      }
+    }
+  },
+  {
+    "id_afiche": "f15_3",
+    "caracteristicas": {
+      "personas_identificables": [
+        {
+          "nombre": "Cristina Fernández de Kirchner",
+          "posicion": "izquierda"
+        },
+        {
+          "nombre": "Amado Boudou",
+          "posicion": "derecha"
+        }
+      ],
+      "texto_principal": {
+        "contenido": "CRISTINA-AMADO 2011",
+        "formato": "mayusculas",
+        "color_fondo_texto": "azul",
+        "color_letra": "negro"
+      },
+      "texto_secundario": {
+        "contenido": "www.amodoboudou.com.ar",
+        "ubicacion": "debajo del texto principal"
+      },
+      "paleta_colores": [
+        "azul",
+        "negro",
+        "blanco",
+        "gris"
+      ],
+      "elementos_visuales": {
+        "tipo_imagen": "fotografia",
+        "disposicion": "plano medio, ambos personajes mirando al frente",
+        "fondo": "gris neutro"
+      },
+      "estilo_tipografico": "sans-serif negrita"
+    }
+  },
+  {
+    "id_afiche": "f15_4",
+    "caracteristicas": {
+      "personaje_principal": "mujer de cabello oscuro",
+      "gesto_personaje": "saludando con la mano derecha levantada",
+      "vestimenta_personaje": "abrigo estampado en tonos gris y negro",
+      "fondo": "multitud en un acto político con banderas argentinas",
+      "texto_superior_derecha": "Instituto de estudios y formación política GESTAR 2011",
+      "texto_derecha_inferior": "CRISTINA FERNANDEZ DE KIRCHNER AMADO BOUDOU",
+      "simbolo_inferior_izquierda": "logo estilizado de los dedos en V con el mapa de Argentina dentro de las letras CFK y el año 2011",
+      "colores_predominantes": [
+        "azul",
+        "celeste",
+        "blanco",
+        "gris"
+      ],
+      "tipografia": "sans-serif, mayúsculas y negritas",
+      "elementos_graficos": [
+        "sol estilizado formando el cero en 2011",
+        "onda curva divisoria en tono azul"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f15_5",
+    "caracteristicas": {
+      "personas": [
+        {
+          "nombre": "Cristina Fernández de Kirchner",
+          "rol_identificado": "Presidenta",
+          "postura": "Sonriente, saludando con brazo derecho elevado"
+        },
+        {
+          "nombre": "Amado Boudou",
+          "rol_identificado": "Vicepresidente",
+          "postura": "Mirando al frente, expresión seria"
+        }
+      ],
+      "textos": {
+        "candidatos": [
+          "CRISTINA FERNANDEZ DE KIRCHNER",
+          "PRESIDENTA",
+          "AMADO BOUDOU",
+          "VICEPRESIDENTE"
+        ],
+        "institucional": [
+          "2011",
+          "Instituto de estudios y formación política",
+          "GESTAR"
+        ],
+        "eslogan_logo": "CFK 2011"
+      },
+      "simbolos": [
+        "Sol estilizado en el número 0 de 2011",
+        "Gesto de la V (v de la victoria) estilizado en azul"
+      ],
+      "paleta_colores": [
+        "Azul cian (fondo)",
+        "Blanco (textos)",
+        "Amarillo (sol)",
+        "Negro (detalles del traje)"
+      ],
+      "estilo_tipografico": {
+        "nombre_candidata": "Sans-serif, negrita, mayúsculas",
+        "cargo": "Sans-serif, negrita, mayúsculas"
+      }
+    }
+  },
+  {
+    "id_afiche": "f15_6",
+    "caracteristicas": {
+      "texto_principal": "CRISTINA 2011",
+      "subtitulo": "FUERZA ARGENTINA",
+      "tipografia": "Sans serif, gruesa, mayúsculas, color blanco con borde negro",
+      "imagen_central": "Retrato de una mujer con las manos juntas frente al rostro",
+      "imagen_fondo": "Multitud de personas sosteniendo banderas argentinas",
+      "paleta_colores": [
+        "blanco",
+        "azul",
+        "celeste",
+        "negro"
+      ],
+      "composicion_visual": "Cartel publicitario instalado sobre un cerco metálico de obra",
+      "elementos_adicionales": "Reja metálica de construcción superpuesta al cartel"
+    }
+  },
+  {
+    "id_afiche": "f16_1",
+    "caracteristicas": {
+      "personas": [
+        {
+          "nombre": "Adolfo Stubrin",
+          "rol_declarado": "DIPUTADO"
+        },
+        {
+          "nombre": "Roberto Lavagna",
+          "rol_declarado": "PRESIDENTE"
+        }
+      ],
+      "textos": {
+        "grupo_politico": "RADICALES en el FRENTE",
+        "leyenda_superior_derecha": "UNA",
+        "candidatos": [
+          "Adolfo Stubrin DIPUTADO",
+          "Roberto Lavagna PRESIDENTE"
+        ]
+      },
+      "elementos_visuales": {
+        "tipo_de_imagen": "fotografía de retrato",
+        "cantidad_personas": 2,
+        "simbolo_superior_izquierdo": "silueta del mapa de Argentina con texto superpuesto"
+      },
+      "colores_predominantes": [
+        "blanco",
+        "azul marino",
+        "rojo",
+        "gris"
+      ],
+      "estilo_tipografico": "sans-serif, mayúsculas y minúsculas combinadas, negritas para nombres propios"
+    }
+  },
+  {
+    "id_afiche": "f17_1",
+    "caracteristicas": {
+      "texto": {
+        "lema": "UNA NACION AVANZADA",
+        "candidato_presidencial": "PRESIDENTE LAVAGNA",
+        "candidato_vicepresidencial": "VICEPRESIDENTE MORALES",
+        "elecciones": "ELECCIONES 2007"
+      },
+      "personas": [
+        {
+          "descripcion": "Gerardo Morales",
+          "vestimenta": "camisa clara de botones",
+          "posicion": "izquierda, abrazando al otro hombre"
+        },
+        {
+          "descripcion": "Roberto Lavagna",
+          "vestimenta": "traje oscuro, camisa blanca y corbata estampada",
+          "posicion": "derecha"
+        }
+      ],
+      "simbolos": {
+        "logotipo_partido": "Escudo de la UCR (Unión Cívica Radical) con letras UCR, antorcha y martillo",
+        "grafico_abstracto": "Figura geométrica de cuadrícula azul"
+      },
+      "colores_predominantes": [
+        "azul",
+        "blanco",
+        "rojo"
+      ],
+      "estilo_visual": {
+        "tipografia": "Sans serif en negrita para el nombre de los cargos, serif para el eslogan",
+        "fondo": "blanco con elementos decorativos de cuadrados azules en la parte superior y lateral"
+      }
+    }
+  },
+  {
+    "id_afiche": "f17_2",
+    "caracteristicas": {
+      "personas": [
+        {
+          "descripcion": "Hombre mayor, calvo, con frente amplia, tez clara, viste traje oscuro, camisa blanca y corbata azul con rayas blancas",
+          "posicion": "izquierda"
+        },
+        {
+          "descripcion": "Hombre de mediana edad, cabello corto castaño, tez clara, viste traje oscuro, camisa blanca y corbata azul con rayas blancas",
+          "posicion": "derecha"
+        }
+      ],
+      "texto": {
+        "contenido": "UNA",
+        "ubicacion": "superior derecha",
+        "estilo": "letras blancas sobre fondo negro"
+      },
+      "estilo_visual": {
+        "fondo": "gradiente de gris a negro",
+        "iluminacion": "estudio profesional con iluminación dirigida a los rostros",
+        "encuadre": "plano medio corto"
+      },
+      "vestimenta": {
+        "tipo": "traje formal",
+        "colores_predominantes": [
+          "negro",
+          "blanco",
+          "azul"
+        ]
+      }
+    }
+  },
+  {
+    "id_afiche": "f17_3",
+    "caracteristicas": {
+      "personaje": {
+        "tipo": "persona",
+        "descripcion": "Hombre de cabello canoso, vistiendo traje oscuro con camisa blanca y corbata azul",
+        "expresion": "sonriente"
+      },
+      "texto": {
+        "contenido": "Presidente Lavagna",
+        "color": "blanco",
+        "posicion": "parte inferior central"
+      },
+      "elementos_visuales": {
+        "fondo": "gris neutro",
+        "logo_esquina_superior": "texto 'UNA'"
+      },
+      "estetica": {
+        "tipo": "fotografia de retrato",
+        "iluminacion": "frontal"
+      }
+    }
+  },
+  {
+    "id_afiche": "f17_4",
+    "caracteristicas": {
+      "personajes": [
+        {
+          "nombre": "Lavagna",
+          "ubicacion": "Primer plano, izquierda",
+          "vestimenta": "Traje oscuro, camisa blanca, corbata azul a rayas"
+        },
+        {
+          "nombre": "Morales",
+          "ubicacion": "Segundo plano, derecha",
+          "vestimenta": "Traje oscuro, camisa blanca, corbata azul a rayas"
+        }
+      ],
+      "texto": {
+        "candidato_principal": "Lavagna",
+        "candidato_secundario": "Morales",
+        "lema": "ARGENTINA TIENE CON QUÉ",
+        "logo_partido": "UNA"
+      },
+      "estilo_visual": {
+        "paleta_colores": [
+          "negro",
+          "blanco",
+          "gris",
+          "azul",
+          "amarillo"
+        ],
+        "tipografia": {
+          "nombre": "Sans-serif",
+          "estilo": "Negrita, mayúsculas y minúsculas"
+        },
+        "fondo": "Degradado gris"
+      }
+    }
+  },
+  {
+    "id_afiche": "f18_1",
+    "caracteristicas": {
+      "encabezado": {
+        "texto_principal": "PARTIDO SOCIALISTA",
+        "logo_partido": "PS con un símbolo de rosa dentro de un recuadro"
+      },
+      "alianza": {
+        "nombre": "COALICIÓN CÍVICA",
+        "logo": "CC en color verde y gris"
+      },
+      "candidatos_texto": [
+        {
+          "nombre": "CARRIO",
+          "cargo": "PRESIDENTA"
+        },
+        {
+          "nombre": "GIUSTINIANI",
+          "cargo": "VICEPRESIDENTE"
+        },
+        {
+          "nombre": "ROY CORTINA",
+          "cargo": "DIPUTADO NACIONAL"
+        }
+      ],
+      "elementos_visuales": {
+        "imagen_destacada": "mano sosteniendo una rosa roja con el tallo visible",
+        "personas": [
+          "hombre joven en traje",
+          "mujer de cabello claro",
+          "hombre adulto en traje"
+        ]
+      },
+      "informacion_contacto": {
+        "sitio_web": "www.psciudad.org.ar",
+        "email": "partidosocialista@argentina.com",
+        "telefono": "0800-222-5330"
+      },
+      "paleta_colores": [
+        "rojo",
+        "blanco",
+        "verde",
+        "gris"
+      ],
+      "estilo": "afiche de campaña electoral"
+    }
+  },
+  {
+    "id_afiche": "f19_1",
+    "caracteristicas": {
+      "texto_principal": "YA TENEMOS LA FÓRMULA QUE LA ARGENTINA NECESITA",
+      "texto_secundario": "YA ESTAMOS PARA UN PAÍS MEJOR",
+      "candidatos": {
+        "presidencia": "CARRIÓ",
+        "vicepresidencia": "GIUSTINIANI"
+      },
+      "partido_politico": "COALICIÓN CÍVICA",
+      "elementos_visuales": {
+        "personajes": [
+          "mujer de cabello rubio con blusa oscura",
+          "hombre con traje oscuro, camisa blanca y corbata"
+        ],
+        "fondo": "predominancia de color azul",
+        "logo": "siglas CC con un círculo verde y azul"
+      },
+      "tipografia": {
+        "estilo": "sans-serif",
+        "formato": "mayúsculas"
+      },
+      "colores_predominantes": [
+        "azul",
+        "blanco",
+        "verde"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f19_2",
+    "caracteristicas": {
+      "texto_principal": "VAMOS AL BALLOTAGE ¿VENÍS?",
+      "texto_secundario": "YA ESTAMOS PARA UN PAÍS MEJOR",
+      "candidatos": {
+        "presidencia": "CARRIO",
+        "vicepresidencia": "GIUSTINIANI"
+      },
+      "partido_politico": {
+        "nombre": "COALICIÓN CÍVICA",
+        "siglas": "CC"
+      },
+      "elementos_visuales": {
+        "personaje": "Mujer de cabello rubio, sonriendo, plano medio corto",
+        "logo_partido": "Siglas CC con diseño circular",
+        "fondo": "Degradado de azul a blanco"
+      },
+      "colores_dominantes": [
+        "azul",
+        "blanco"
+      ],
+      "tipografia": "Sans serif, negrita para los textos destacados"
+    }
+  },
+  {
+    "id_afiche": "f20_1",
+    "caracteristicas": {
+      "personas_retratadas": [
+        "mujer",
+        "hombre"
+      ],
+      "texto_principal": [
+        "A la Argentina que viene la hacemos entre todos.",
+        "Cristina, Cobos y Vos"
+      ],
+      "paleta_de_colores": {
+        "fondo": "gris azulado",
+        "texto": [
+          "blanco",
+          "azul oscuro"
+        ]
+      },
+      "disposicion_elementos": {
+        "encabezado": "rostros de los dos candidatos",
+        "pie_de_imagen": "rectángulo con texto"
+      },
+      "tipografia": "sans-serif"
+    }
+  },
+  {
+    "id_afiche": "f20_2",
+    "caracteristicas": {
+      "texto_principal": [
+        "LOGRAMOS QUE UN GOBIERNO",
+        "PUEDA TRABAJAR CONJUNTAMENTE",
+        "CON GOBERNANTES DE OTROS PARTIDOS.",
+        "AHORA HACE FALTA CONCERTAR",
+        "ENTRE TODOS UN PLAN A LARGO PLAZO."
+      ],
+      "eslogan_inferior": "Cristina, Cobos y Vos",
+      "sub_eslogan": "SABEMOS LO QUE FALTA, SABEMOS COMO HACERLO.",
+      "url": "www.cristinacobosyvos.com",
+      "elementos_visuales": {
+        "simbolo": "Sol de Mayo (emblema nacional argentino)",
+        "colores": [
+          "azul",
+          "amarillo/dorado",
+          "blanco"
+        ]
+      },
+      "tipografia": {
+        "estilo": "sans-serif",
+        "caja": "mayúsculas"
+      },
+      "disposicion": "texto centrado"
+    }
+  },
+  {
+    "id_afiche": "f20_3",
+    "caracteristicas": {
+      "persona": {
+        "presencia": true,
+        "tipo": "fotografía",
+        "sujeto": "mujer",
+        "orientación": "primer plano frontal, mirada directa a cámara"
+      },
+      "texto": {
+        "nombre": "CRISTINA",
+        "eslogan": "EL CAMBIO RECIEN EMPIEZA",
+        "formato": "letras mayúsculas sans-serif"
+      },
+      "disposición_visual": {
+        "fondo_superior": "blanco o gris muy claro con textura",
+        "banda_inferior": "azul con texto blanco",
+        "marco": "borde texturizado oscuro"
+      },
+      "paleta_de_colores": [
+        "azul",
+        "blanco",
+        "tonos de piel",
+        "marrón (cabello)"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f20_4",
+    "caracteristicas": {
+      "personas": [
+        {
+          "descripcion": "Mujer de cabello castaño rojizo, mirando de frente",
+          "ubicacion": "izquierda"
+        },
+        {
+          "descripcion": "Hombre de cabello castaño claro, con traje y corbata, mirando de frente",
+          "ubicacion": "derecha"
+        }
+      ],
+      "texto": {
+        "lema": "A la Argentina que viene la hacemos entre todos.",
+        "candidatos": "Cristina, Cobos y Vos"
+      },
+      "tipografia": {
+        "estilo": "sans-serif",
+        "peso": "negrita en los nombres",
+        "color": "blanco"
+      },
+      "colores_predominantes": [
+        "azul oscuro",
+        "blanco"
+      ],
+      "aspecto_fisico": "El afiche presenta textura de papel arrugado y pliegues horizontales"
+    }
+  },
+  {
+    "id_afiche": "f20_5",
+    "caracteristicas": {
+      "texto_principal": "Cristina, Cobos y Vos",
+      "estilo_tipografico": {
+        "tipografia": "Sans serif",
+        "estilo": "Negrita",
+        "colores": {
+          "Cristina": "Azul oscuro",
+          "Cobos": "Azul oscuro",
+          "y": "Amarillo",
+          "Vos": "Azul oscuro"
+        }
+      },
+      "elementos_visuales": {
+        "cantidad_personas": 2,
+        "personas": [
+          {
+            "descripcion": "Mujer de cabello rojizo, apoyando la mano derecha en la barbilla",
+            "posicion": "Izquierda"
+          },
+          {
+            "descripcion": "Hombre de cabello oscuro corto, vistiendo una chaqueta oscura sobre una camisa clara",
+            "posicion": "Derecha"
+          }
+        ],
+        "marco": "Rectángulo de bordes redondeados con fondo azul oscuro",
+        "fondo_general": "Celeste claro"
+      }
+    }
+  },
+  {
+    "id_afiche": "f20_6",
+    "caracteristicas": {
+      "texto_principal": [
+        "EN DEMOCRACIA",
+        "SIEMPRE",
+        "GANAMOS TODOS"
+      ],
+      "texto_secundario": "Cristina, Cobos y Vos",
+      "tipografia": "Sans-serif, peso bold en 'SIEMPRE', color azul oscuro para el cuerpo de texto principal",
+      "colores": {
+        "fondo_cartel": "blanco",
+        "texto_principal": "azul",
+        "detalles": "dorado y azul"
+      },
+      "simbolos": [
+        "Sol de Mayo (emblema nacional argentino) ubicado a la izquierda de la línea de texto secundaria"
+      ],
+      "disposicion": "Cartel rectangular montado sobre un poste en un entorno de parque o plaza",
+      "elementos_visuales": "Línea horizontal azul que separa el texto principal de los nombres 'Cristina, Cobos y Vos'"
+    }
+  },
+  {
+    "id_afiche": "f21_1",
+    "caracteristicas": {
+      "descripcion_general": "Dos imágenes combinadas de afiches de campaña política con el mismo candidato y lema central.",
+      "candidato": {
+        "nombre": "Rodriguez Saa",
+        "descripcion_visual": "Hombre de tez clara, cabello oscuro, vistiendo traje oscuro con corbata, gesticulando con la mano derecha hacia adelante."
+      },
+      "textos_principales": [
+        "VAMOS A REFUNDAR LA NACION",
+        "VAMOS A REFUNDAR LA PATRIA",
+        "VAMOS A REFUNDAR ARGENTINA",
+        "LAS RIQUEZAS DEL PAIS, PERTENECEN A TODOS LOS ARGENTINOS."
+      ],
+      "textos_secundarios": [
+        "100X100 ARGENTINOS",
+        "RODRIGUEZ SAA-POSSE",
+        "MNP",
+        "Movimiento Nacional y Popular"
+      ],
+      "elementos_graficos_afiche_izquierdo": {
+        "temas_iconicos": [
+          {
+            "etiqueta": "FERROCARRILES",
+            "descripcion": "Imagen de un tren",
+            "texto_inferior": "100XCIENTO ARGENTINOS"
+          },
+          {
+            "etiqueta": "PETROLEO",
+            "descripcion": "Imagen de una torre petrolera",
+            "texto_inferior": "100XCIENTO ARGENTINO"
+          },
+          {
+            "etiqueta": "TRABAJO",
+            "descripcion": "Imagen de personas trabajando",
+            "texto_inferior": "PARA EL NACIMIENTO DE LOS ARGENTINOS"
+          },
+          {
+            "etiqueta": "COMIDA",
+            "descripcion": "Imagen de platos de comida",
+            "texto_inferior": "PARA EL NACIMIENTO DE LOS ARGENTINOS"
+          }
+        ]
+      },
+      "paleta_colores": [
+        "Azul",
+        "Blanco",
+        "Negro"
+      ],
+      "tipografia": "Sans-serif, negrita, mayúsculas sostenidas"
+    }
+  },
+  {
+    "id_afiche": "f22_1",
+    "caracteristicas": {
+      "formato": "circular",
+      "texto": {
+        "superior": "CON LA VERDAD",
+        "inferior": "Y A CARA DE PERRO"
+      },
+      "tipografia": "sans-serif, mayúsculas, negrita, color blanco",
+      "colores_predominantes": [
+        "rojo",
+        "blanco",
+        "azul"
+      ],
+      "elemento_central": {
+        "descripcion": "caricatura de una figura masculina con bigote prominente",
+        "rasgos": [
+          "cabeza desproporcionada",
+          "orejas grandes",
+          "postura de cuatro patas",
+          "uñas afiladas"
+        ],
+        "vestimenta": "collar rojo al cuello"
+      },
+      "objetos_adicionales": {
+        "objeto": "hueso en el cuadrante inferior derecho",
+        "color_objeto": "beige y blanco"
+      },
+      "fondo": "degradado azul circular"
+    }
+  },
+  {
+    "id_afiche": "f22_2",
+    "caracteristicas": {
+      "texto_principal": "PONELE LOPEZ MURPHY A TU VOTO",
+      "texto_secundario": [
+        "LOPEZ MURPHY PRESIDENTE",
+        "ESTEBAN BULLRICH VICEPRESIDENTE"
+      ],
+      "nombre_partido": "recrear",
+      "numero_lista": "lista 48",
+      "personas_visibles": [
+        {
+          "descripcion": "Hombre de traje oscuro y camisa blanca, con bigote",
+          "apariciones": 2
+        },
+        {
+          "descripcion": "Hombre de traje oscuro y camisa blanca, con barba corta",
+          "apariciones": 1
+        }
+      ],
+      "colores_dominantes": [
+        "amarillo",
+        "negro",
+        "blanco"
+      ],
+      "tipografia": "sans-serif, bold, mayúsculas",
+      "elementos_adicionales": "patrón de cuadrícula sobre el fondo amarillo"
+    }
+  },
+  {
+    "id_afiche": "f22_3",
+    "caracteristicas": {
+      "fondo": {
+        "color": "violeta"
+      },
+      "texto_principal": {
+        "encabezado": "LEY DE LOPEZ MURPHY N° 2",
+        "cuerpo": "\"Es imposible que se vayan todos, nadie les daría la visa\""
+      },
+      "isotipo_logo": {
+        "texto_superior": "movimiento federal",
+        "texto_inferior": "recrear",
+        "borde": "rectángulo blanco"
+      },
+      "estilo_visual": {
+        "tipografia": "sans-serif",
+        "formato_texto": "alineado al centro"
+      }
+    }
+  },
+  {
+    "id_afiche": "f22_4",
+    "caracteristicas": {
+      "fondo": {
+        "color": "azul oscuro",
+        "textura": "rugosa o tipo lienzo"
+      },
+      "texto_principal": {
+        "encabezado": "LEY DE LOPEZ MURPHY N° 1",
+        "cuerpo": "\"Si vas a votar igual, todo va a ser peor\""
+      },
+      "tipografia": {
+        "estilo": "sans-serif",
+        "color": "blanco",
+        "peso": "negrita"
+      },
+      "logo_partido": {
+        "texto_superior": "movimiento federal",
+        "texto_inferior": "recrear",
+        "contenedor": "rectángulo blanco con borde negro"
+      }
+    }
+  },
+  {
+    "id_afiche": "f23_1",
+    "caracteristicas": {
+      "texto_principal": "MENEM",
+      "texto_secundario": "ROMERO",
+      "texto_terciario": "2003",
+      "tipografia": "Sans-serif, en negrita",
+      "disposicion_texto": "MENEM dispuesto en arco sobre el centro; ROMERO y 2003 centrados debajo en líneas horizontales",
+      "colores": {
+        "fondo": "Azul",
+        "texto": "Blanco"
+      },
+      "elementos_visuales": "Sin imágenes, personas ni logotipos adicionales en el diseño del afiche",
+      "formato": "Rectangular horizontal"
+    }
+  },
+  {
+    "id_afiche": "f23_2",
+    "caracteristicas": {
+      "texto_principal": "MENEM",
+      "texto_secundario": "¿qué duda te cabe?",
+      "colores_predominantes": [
+        "blanco",
+        "azul"
+      ],
+      "tipografia": {
+        "texto_principal": "sans-serif, extra bold, mayúsculas",
+        "texto_secundario": "serif, itálica"
+      },
+      "elementos_visuales": {
+        "cantidad_fotografias_personas": 4,
+        "disposicion": "montaje fotográfico con cuatro retratos de hombres en las esquinas, fondo azul con letras blancas superpuestas"
+      },
+      "elementos_humanos": {
+        "descripciones": [
+          "hombre canoso con traje",
+          "hombre de pelo oscuro con traje",
+          "mujer rubia fumando",
+          "hombre mayor de pelo oscuro con traje"
+        ]
+      }
+    }
+  },
+  {
+    "id_afiche": "f23_3",
+    "caracteristicas": {
+      "texto_principal": "Con Menem estábamos mejor!",
+      "forma_grafica": "burbuja de diálogo o globo de texto con borde grueso",
+      "color_fondo_burbuja": "amarillo claro",
+      "color_borde_burbuja": "negro",
+      "tipografia": "sans-serif, negrita, color azul oscuro",
+      "elementos_visuales": [
+        "burbuja de diálogo",
+        "puntero de la burbuja dirigido hacia abajo a la derecha"
+      ],
+      "colores_dominantes": [
+        "amarillo",
+        "azul",
+        "negro"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f23_4",
+    "caracteristicas": {
+      "persona_principal": "hombre de cabello oscuro, vestido con traje marrón y corbata estampada",
+      "texto_principal": "Argentina necesita un Presidente",
+      "texto_secundario": "FRENTE POR LA LEALTAD AGRUPACION 12 DE JUNIO SUTACA - MOP",
+      "numero_de_lista": "33",
+      "colores_predominantes": [
+        "azul",
+        "amarillo",
+        "blanco",
+        "rojo",
+        "marrón"
+      ],
+      "tipografia": {
+        "titulo": "serif, negrita, color blanco con borde azul",
+        "subtitulo": "sans-serif, mayúsculas, color blanco sobre fondo rojo",
+        "numero_lista": "sans-serif, mayúsculas, color blanco sobre fondo azul"
+      },
+      "elementos_graficos": {
+        "fondo": "sol estilizado parcialmente visible tras la persona",
+        "formato": "afiche político"
+      }
+    }
+  },
+  {
+    "id_afiche": "f24_1",
+    "caracteristicas": {
+      "personaje_principal": {
+        "descripcion": "Retrato de primer plano de una mujer de cabello rubio, sonriendo levemente",
+        "posicion": "Parte superior del afiche"
+      },
+      "textos": {
+        "nombre_candidato": "Carrió",
+        "lema_principal": "HONESTIDAD Y PROPUESTAS",
+        "lema_secundario": "para una Argentina en paz"
+      },
+      "tipografia": {
+        "nombre_candidato": "Negrita, sans-serif, color negro",
+        "lema_principal": "Negrita, sans-serif, color negro",
+        "lema_secundario": "Sans-serif, color azul"
+      },
+      "elementos_graficos": {
+        "logo_partido": "Siglas 'ari' con tipografía estilizada y un diseño triangular abstracto en color azul y rojo",
+        "colores_predominantes": [
+          "blanco",
+          "gris claro",
+          "azul",
+          "negro"
+        ],
+        "disposicion": "Formato vertical, diseño dividido en franjas horizontales, con borde superior e inferior en color azul"
+      }
+    }
+  },
+  {
+    "id_afiche": "f24_2",
+    "caracteristicas": {
+      "personas_visibles": [
+        {
+          "nombre": "Carrió",
+          "rol": "Presidente",
+          "descripcion": "Mujer de cabello rubio, sonriendo"
+        },
+        {
+          "nombre": "Gutiérrez",
+          "rol": "Vicepresidente",
+          "descripcion": "Hombre de cabello oscuro, sonriendo, viste traje y corbata"
+        }
+      ],
+      "textos": {
+        "titular": "Carrió Gutiérrez",
+        "subtitular": "Presidente Vicepresidente",
+        "lema": "Ganar entre todos con las manos limpias y libres",
+        "cuerpo_texto": [
+          "Porque de verdad queremos cambiar la política con la participación de todos los argentinos y las argentinas.",
+          "Porque para gobernar con verdadera independencia, no aceptamos dinero de los poderosos ni de los corruptos.",
+          "Porque estamos en contra del clientelismo y de quienes especulan con las necesidades de nuestro pueblo para hacer proselitismo.",
+          "Por eso, nuestra campaña se sostendrá a partir del esfuerzo y el aporte voluntario de cada ciudadano comprometido con nuestro proyecto: Una Argentina de Verdad."
+        ],
+        "instrucciones_participacion": {
+          "titulo": "Para participar podés acercarte a:",
+          "metodos_donacion": [
+            "Doná $$ llamando al: 0605-1114454",
+            "Con tarjeta de crédito (Visa, MasterCard, Cabal) llamando al (011) 494 37029",
+            "Depositando en la cuenta corriente del partido ARI en el Banco de la Nación Argentina N° 1200259/11"
+          ],
+          "contacto": "Para comunicarte podés escribir a: Casilla de Correo Central 841",
+          "sitio_web": "www.elisacarrio.com.ar"
+        }
+      },
+      "simbolos": {
+        "logo_partido": "ari AFIRMACION PARA UNA REPUBLICA IGUALITARIA"
+      },
+      "estetica": {
+        "fondo": "Bandera de Argentina con degradado de azul a blanco",
+        "colores_predominantes": [
+          "Azul",
+          "Blanco",
+          "Negro"
+        ],
+        "tipografia": "Sans-serif, negrita para los nombres principales"
+      }
+    }
+  },
+  {
+    "id_afiche": "f25_1",
+    "caracteristicas": {
+      "textos": {
+        "lema": "SABEN CÓMO HACER UN PAÍS EN SERIO",
+        "candidatos": {
+          "nombre_1": "KIRCHNER",
+          "cargo_1": "PRESIDENTE",
+          "nombre_2": "SCIOLI",
+          "cargo_2": "VICEPRESIDENTE"
+        }
+      },
+      "colores": {
+        "fondo_superior": "azul",
+        "texto_superior": "blanco",
+        "fondo_inferior": "blanco",
+        "texto_inferior": "negro",
+        "elemento_central": "amarillo"
+      },
+      "tipografia": {
+        "estilo": "serif",
+        "caja": "mayúsculas"
+      },
+      "elementos_visuales": {
+        "icono": "círculo pequeño de color amarillo entre los dos apellidos"
+      }
+    }
+  },
+  {
+    "id_afiche": "f25_2",
+    "caracteristicas": {
+      "texto_principal": "NOSOTROS HACEMOS",
+      "texto_secundario": "KIRCHNER SCIOLI",
+      "texto_terciario": "FRENTE JUSTICIALISTA PARA LA VICTORIA",
+      "simbolos": [
+        "Sol de Mayo estilizado entre los nombres Kirchner y Scioli"
+      ],
+      "paleta_de_colores": [
+        "azul oscuro (fondo)",
+        "blanco (texto y detalles)",
+        "amarillo (sol)"
+      ],
+      "tipografia": "Sans-serif, negrita, mayúsculas",
+      "disposicion": "Texto alineado al centro, estructura apilada",
+      "elementos_graficos": [
+        "Línea divisoria horizontal doble debajo del título principal",
+        "Recuadro blanco que contiene el texto del frente electoral"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f25_3",
+    "caracteristicas": {
+      "persona_principal": {
+        "descripcion": "Hombre de mediana edad, tez clara, cabello oscuro, viste traje oscuro con camisa celeste y corbata azul, posando con la mano apoyada en el mentón",
+        "identidad": "Néstor Kirchner"
+      },
+      "textos": {
+        "linea_1": "ARGENTINA",
+        "linea_2": "UN PAIS",
+        "linea_3": "EN SERIO",
+        "linea_4": "KIRCHNER",
+        "linea_5": "PRESIDENTE"
+      },
+      "elementos_graficos": {
+        "logo_partido": "La letra 'K' estilizada con la forma del mapa de Argentina integrada",
+        "marco_logo": "Rectángulo azul oscuro"
+      },
+      "paleta_colores": [
+        "Azul",
+        "Celeste",
+        "Blanco",
+        "Negro"
+      ],
+      "tipografia": {
+        "titulo_principal": "Sans-serif, negrita, color azul",
+        "texto_inferior": "Sans-serif, color blanco sobre fondo azul"
+      }
+    }
+  },
+  {
+    "id_afiche": "f25_4",
+    "caracteristicas": {
+      "texto_principal": "En un país en serio, obra pública es mano de obra.",
+      "lema_secundario": "PRIMERO EL TRABAJO",
+      "nombres_candidatos": "KIRCHNER - SCIOLI",
+      "cargos_candidatos": "PRESIDENTE - VICEPRESIDENTE",
+      "eslogan_final": "SABEN CÓMO HACER UN PAÍS EN SERIO",
+      "texto_adicional_imagen": "PRIMERO ARGENTINA",
+      "elementos_visuales": {
+        "persona": "Trabajador con casco naranja y ropa de trabajo operando maquinaria o realizando labor manual",
+        "tipo_imagen": "Fotografía"
+      },
+      "colores_predominantes": [
+        "Azul",
+        "Blanco",
+        "Naranja"
+      ],
+      "tipografia": "Sans-serif, negrita y mayúsculas en titulares",
+      "simbolos": "Un sol amarillo pequeño situado entre los apellidos Kirchner y Scioli"
+    }
+  },
+  {
+    "id_afiche": "f25_5",
+    "caracteristicas": {
+      "personas": [
+        {
+          "nombre": "Néstor Kirchner",
+          "posicion": "izquierda",
+          "vestimenta": "traje oscuro, camisa clara, corbata estampada"
+        },
+        {
+          "nombre": "Daniel Scioli",
+          "posicion": "derecha",
+          "vestimenta": "traje oscuro, camisa blanca, corbata roja"
+        }
+      ],
+      "texto_principal": "SABEN CÓMO HACER UN PAÍS EN SERIO",
+      "texto_inferior": {
+        "nombre_izquierdo": "KIRCHNER",
+        "cargo_izquierdo": "PRESIDENTE",
+        "separador": "círculo amarillo",
+        "nombre_derecho": "SCIOLI",
+        "cargo_derecho": "VICEPRESIDENTE"
+      },
+      "colores_predominantes": [
+        "azul",
+        "blanco",
+        "amarillo",
+        "rojo"
+      ],
+      "disposicion_elementos": "Retratos de busto centrados a los lados, texto centralizado entre los sujetos, franja inferior con cargos",
+      "tipografia": "Sans serif, negrita, mayúsculas"
+    }
+  },
+  {
+    "id_afiche": "f25_6",
+    "caracteristicas": {
+      "texto_principal": "KIRCHNER",
+      "subtitulo_superior": "UN PAIS NORMAL ES POSIBLE",
+      "subtitulo_inferior": "EQUIPOS Y PLANES DE GOBIERNO",
+      "elementos_graficos": {
+        "forma_letra_k": "la letra K tiene integrada la silueta del mapa de la República Argentina",
+        "linea_separadora": "una linea horizontal blanca debajo de la palabra KIRCHNER"
+      },
+      "colores": {
+        "fondo": "azul oscuro",
+        "texto": "blanco",
+        "graficos": "blanco"
+      },
+      "tipografia": {
+        "estilo": "sans-serif",
+        "formato": "mayúsculas"
+      }
+    }
+  },
+  {
+    "id_afiche": "f25_7",
+    "caracteristicas": {
+      "texto_principal": [
+        "ARGENTINA",
+        "ES POSIBLE",
+        "AHORA",
+        "KIRCHNER",
+        "PRESIDENTE"
+      ],
+      "texto_tenue": "LOPEZ MURPHY",
+      "colores": {
+        "principal": "azul oscuro",
+        "fondo": "blanco",
+        "fondo_de_texto_inferior": "azul"
+      },
+      "tipografia": {
+        "estilo": "sans-serif",
+        "peso": "negrita",
+        "caja": "mayúsculas"
+      },
+      "disposicion": "centrada",
+      "elementos_visuales": {
+        "borde": "rectángulo fino rodeando el afiche",
+        "franja": "banda horizontal azul en la parte inferior del cuerpo del texto"
+      }
+    }
+  },
+  {
+    "id_afiche": "f26_1",
+    "caracteristicas": {
+      "titular": "Súmese al Bloque Cavallo.",
+      "nombres_mencionados": [
+        "Francos",
+        "Cavallo",
+        "Estenssoro"
+      ],
+      "instruccion_de_voto": "En Capital Federal vote lista 132.",
+      "personas_presentes": [
+        {
+          "nombre": "Guillermo Francos",
+          "posicion": "izquierda"
+        },
+        {
+          "nombre": "Domingo Cavallo",
+          "posicion": "centro"
+        },
+        {
+          "nombre": "Gustavo Beliz",
+          "posicion": "derecha"
+        }
+      ],
+      "elementos_visuales": {
+        "tipo_de_imagen": "Fotografía grupal de estudio",
+        "estilo_fotografico": "Blanco y negro con tono sepia",
+        "disposicion": "Tres personas de frente mirando a cámara"
+      },
+      "tipografia": {
+        "estilo": "Serif",
+        "colores": [
+          "blanco",
+          "naranja"
+        ]
+      },
+      "paleta_de_colores_fondo": [
+        "negro"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f27_1",
+    "caracteristicas": {
+      "texto_principal": [
+        "Cavallo",
+        "Presidente",
+        "Caro",
+        "Figueroa",
+        "Vice"
+      ],
+      "texto_secundario": [
+        "ACCION",
+        "POR LA REPUBLICA",
+        "Cavallo Presidente"
+      ],
+      "colores_predominantes": [
+        "Azul",
+        "Naranja",
+        "Blanco",
+        "Negro",
+        "Escala de grises"
+      ],
+      "elementos_visuales": {
+        "tipo_de_imagen": "Fotografía en blanco y negro",
+        "personas_representadas": 2,
+        "disposicion_imagen": "Personas superpuestas en planos medio corto",
+        "fondo_imagen": "Textura abstracta gris"
+      },
+      "disenho": {
+        "formato": "Cartel rectangular vertical",
+        "secciones": {
+          "izquierda": "Franja azul vertical con texto blanco",
+          "inferior": "Franja naranja horizontal",
+          "derecha": "Imágenes de personas con logo inferior"
+        }
+      },
+      "tipografia": "Sans serif, negrita, mayúsculas"
+    }
+  },
+  {
+    "id_afiche": "f28_1",
+    "caracteristicas": {
+      "texto_superior": "SI BUENOS AIRES NO CAMINA IMAGINATE LA ARGENTINA...",
+      "texto_inferior": "PARA DAR 100 PASOS HAY QUE SABER CAMINAR",
+      "elemento_central": "Fotografía en blanco y negro de un bebé gateando con el rostro de un hombre adulto sobrepuesto",
+      "logo_organizacion": {
+        "texto": "JUVENTUD PERONISTA NACIONAL",
+        "simbolo": "Letras 'JP' entrelazadas junto a un emblema con una mano entrelazada"
+      },
+      "paleta_de_colores": {
+        "principal": "Azul oscuro",
+        "fondo": "Blanco",
+        "fotografia": "Escala de grises"
+      },
+      "tipografia": {
+        "estilo": "Sans-serif, negrita, mayúsculas",
+        "alineacion": "Centrada"
+      },
+      "disposicion": "Texto en la parte superior e inferior, imagen central, logo en la parte derecha"
+    }
+  },
+  {
+    "id_afiche": "f28_2",
+    "caracteristicas": {
+      "texto_encabezado": "Peronistas de Ley",
+      "texto_pie": "Alianza para la Victoria Movimiento Nacional Justicialista",
+      "personas": {
+        "cantidad": 2,
+        "descripcion": "Dos hombres adultos, uno a la izquierda con cabello oscuro peinado hacia atrás y camisa blanca, y otro a la derecha con cabello oscuro peinado hacia atrás, sonriendo y vistiendo una camisa de rayas finas.",
+        "interaccion": "El hombre de la derecha tiene su brazo derecho sobre el hombro del hombre de la izquierda."
+      },
+      "elementos_graficos": {
+        "simbolo_central": "Pequeño círculo de color amarillento/dorado junto a una línea azul",
+        "logo_partido": "Escudo pequeño en la esquina inferior derecha con colores blanco, azul y rojo"
+      },
+      "colores_predominantes": [
+        "blanco",
+        "azul",
+        "negro",
+        "gris"
+      ],
+      "estilo_visual": "Fotografía tipo retrato de campaña con fondo blanco"
+    }
+  },
+  {
+    "id_afiche": "f28_3",
+    "caracteristicas": {
+      "persona": {
+        "presencia": "hombre",
+        "descripcion": "rostro sonriente, vistiendo traje oscuro con camisa blanca y corbata"
+      },
+      "texto": {
+        "principal": "El mejor cambio",
+        "nombre_candidato": "Duhalde",
+        "cargo": "Presidente"
+      },
+      "diseno": {
+        "fondo": "gradiente azul oscuro con textura de trama punteada",
+        "graficos": "silueta de un mapa de Argentina o Sudamérica integrado en el fondo"
+      },
+      "tipografia": {
+        "estilo": "sans-serif, letras blancas en negrita",
+        "distribucion": "texto principal alineado a la derecha, nombre del candidato con mayor peso visual"
+      }
+    }
+  },
+  {
+    "id_afiche": "f28_4",
+    "caracteristicas": {
+      "persona": {
+        "sujeto": "hombre",
+        "tipo_de_encuadre": "primer plano",
+        "orientacion": "perfil tres cuartos mirando a cámara",
+        "vestimenta": "traje oscuro con camisa blanca"
+      },
+      "texto": {
+        "eslogan": "Con la fuerza de los hechos",
+        "nombre_candidato": "Duhalde",
+        "cargo": "PRESIDENTE",
+        "fecha_referencia": "1997-1999"
+      },
+      "diseno": {
+        "fondo": "negro",
+        "colores_principales": [
+          "blanco",
+          "negro",
+          "naranja",
+          "cian"
+        ],
+        "tipografia_eslogan": "sans-serif, condensada, mayúsculas y minúsculas",
+        "tipografia_nombre": "sans-serif, negrita, mayúsculas",
+        "elementos_graficos": {
+          "punto_naranja": "ubicado en la letra 'h' del nombre del candidato",
+          "linea_cian": "subrayando parte del nombre del candidato"
+        }
+      }
+    }
+  },
+  {
+    "id_afiche": "f28_5",
+    "caracteristicas": {
+      "personaje_principal": "Hombre adulto, primer plano, plano medio corto, mirando a cámara",
+      "vestimenta": "Traje oscuro, camisa blanca, corbata estampada",
+      "texto_principal": "Con la fuerza de los hechos",
+      "texto_secundario": "Duhalde",
+      "texto_terciario": "PRESIDENTE",
+      "tipografia_texto_principal": "Sans-serif, negrita, color gris claro",
+      "tipografia_nombre": "Sans-serif, negrita, color blanco",
+      "simbolos": "Bandera argentina estilizada en la letra 'h' del apellido Duhalde",
+      "paleta_de_colores": [
+        "negro",
+        "gris",
+        "blanco",
+        "celeste"
+      ],
+      "fondo": "Negro sólido con pliegues verticales",
+      "iluminacion": "Luz frontal suave, resaltando el rostro del personaje"
+    }
+  },
+  {
+    "id_afiche": "f28_6",
+    "caracteristicas": {
+      "personaje": {
+        "descripcion": "Hombre de mediana edad, de tez clara y cabello oscuro, sonriendo",
+        "vestimenta": "Traje oscuro, camisa clara y corbata estampada"
+      },
+      "texto_principal": {
+        "linea_1": "Para cambiar",
+        "linea_2": "con",
+        "linea_3": "firmeza."
+      },
+      "texto_secundario": {
+        "nombre_candidato": "Duhalde",
+        "cargo": "Presidente"
+      },
+      "tipografia": {
+        "estilo_principal": "Sans-serif, negrita",
+        "estilo_nombre": "Sans-serif, negrita, con estilo dinámico"
+      },
+      "colores": {
+        "predominantes": [
+          "blanco",
+          "naranja",
+          "azul oscuro"
+        ],
+        "acentos": {
+          "palabra_firmeza": "naranja",
+          "punto_nombre": "naranja"
+        }
+      },
+      "elementos_graficos": {
+        "fondo": "Degradado de tonos oscuros y azulados",
+        "marca_candidato": "El nombre 'Duhalde' incluye una 'U' con trazo curvo tipo logo y un punto naranja sobre la 'u'"
+      }
+    }
+  },
+  {
+    "id_afiche": "f29_1",
+    "caracteristicas": {
+      "titular": "MAFFIO Y SUS PANDILLEROS",
+      "tipografia_titular": "Sans-serif, negrita, mayúsculas",
+      "color_titular": "Rojo",
+      "elementos_visuales": [
+        "caricatura de grupo de personas",
+        "automóvil antiguo",
+        "billetes flotantes",
+        "documentos con la sigla DNI",
+        "arma de fuego tipo metralleta",
+        "sombreros",
+        "gorra de cartero"
+      ],
+      "personajes": {
+        "cantidad_total": 6,
+        "disposicion": "un personaje conduciendo un auto, cinco personajes alrededor"
+      },
+      "simbolos": {
+        "logos_esquina_inferior_derecha": [
+          "martillo y pluma cruzados",
+          "texto: JUVENTUD RADICAL CAPITAL FEDERAL"
+        ]
+      },
+      "estilo_grafico": "Dibujo a mano alzada en estilo caricatura de prensa",
+      "colores_predominantes": [
+        "Rojo",
+        "Blanco",
+        "Gris (grafito)"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f29_2",
+    "caracteristicas": {
+      "persona": {
+        "presencia": "sí",
+        "descripcion": "retrato de un hombre de edad madura, de tez clara y cabello canoso, vistiendo traje y corbata, sonriendo",
+        "posicion": "lado izquierdo"
+      },
+      "textos": {
+        "linea_1": "DE L/\\RUA",
+        "linea_2": "PRESIDENTE"
+      },
+      "elementos_graficos": {
+        "simbolo": "un triángulo o letra A estilizada de color azul cielo entre las letras L y R del apellido",
+        "diseno_tipografico": "sans-serif, mayúsculas, negrita"
+      },
+      "colores": {
+        "principal": "negro",
+        "acentuado": "azul cielo",
+        "fondo": "blanco crema"
+      },
+      "composicion": "retrato del candidato a la izquierda, eslogan centrado a la derecha"
+    }
+  },
+  {
+    "id_afiche": "f29_3",
+    "caracteristicas": {
+      "personaje": {
+        "tipo": "rostro humano",
+        "descripcion": "hombre adulto mayor, pelo canoso, vistiendo traje oscuro, camisa clara y corbata estampada",
+        "posicion": "izquierda del afiche"
+      },
+      "texto": {
+        "contenido": "VIENE UNA ARGENTINA DISTINTA",
+        "estilo": "letras mayúsculas, negrita, sans-serif",
+        "alineacion": "centrada a la derecha del rostro"
+      },
+      "estetica": {
+        "fondo": "color azul uniforme con degradado sutil",
+        "color_texto": "blanco"
+      },
+      "composicion": "diseño publicitario con foto a la izquierda y eslogan a la derecha"
+    }
+  },
+  {
+    "id_afiche": "f29_4",
+    "caracteristicas": {
+      "texto_principal": "POR LA GENTE",
+      "texto_secundario": "DE LA RUA ALVAREZ - ALIANZA",
+      "personas": [
+        {
+          "descripcion": "Hombre de tez clara, cabello oscuro, viste traje gris con camisa azul y corbata oscura",
+          "posicion": "Izquierda"
+        },
+        {
+          "descripcion": "Hombre de tez clara, calvo, viste traje oscuro con camisa clara y corbata oscura",
+          "posicion": "Derecha"
+        }
+      ],
+      "paleta_colores": [
+        "Azul",
+        "Blanco",
+        "Negro",
+        "Gris"
+      ],
+      "estilo_tipografico": "Sans-serif, negrita, mayúsculas",
+      "diseno": {
+        "fondo": "Degradado azul claro con franja diagonal blanca",
+        "disposicion": "Horizontal",
+        "elementos_graficos": "La letra 'A' de 'GENTE' y 'ALIANZA' está estilizada con dos líneas diagonales paralelas"
+      }
+    }
+  },
+  {
+    "id_afiche": "f30_1",
+    "caracteristicas": {
+      "titulo": "¿Dónde está la Izquierda?",
+      "cuerpo_texto": [
+        "Un partido es realmente de izquierda cuando asume un compromiso efectivo con la justicia social y la transformación profunda de las estructuras políticas y económicas de una sociedad decadente.",
+        "Un partido es realmente de izquierda cuando su propuesta de cambio tiene como escenario el país que amamos y sufrimos todos los días.",
+        "Un partido es realmente de izquierda cuando abandona el facilismo de recitar dogmas para un pueblo abstracto y se compromete en serio con las necesidades impostergables de las mayorías: la gente de carne y hueso.",
+        "La tarea no es fácil. Significa abandonar la campana de cristal en la que nada amenaza la pureza de nuestros principios y salir hoy, con nuestras banderas, a disputar el poder real con los grupos dominantes que apoyan las candidaturas de Alsogaray y Angeloz.",
+        "Esta es la histórica decisión del Partido Intransigente: integrar el Frente Justicialista de Unidad Popular -FREJUPO-.",
+        "Un Frente capaz de oponerle a la derecha neoliberal un serio proyecto nacional, que libere la energía creadora, la voluntad productiva y la solidaridad social de nuestro pueblo.",
+        "Un Frente comprometido a profundizar la Democracia, fortalecer la Justicia, poner al Estado y a las Fuerzas Armadas al servicio del interés mayoritario, impedir el retorno de concepciones y metodologías autoritarias, moralizar el sistema financiero e impositivo, revitalizar la escuela pública y dar una batalla frontal contra la miseria y la desocupación, recreando el mercado interno y recuperando el poder adquisitivo de los salarios.",
+        "La unidad popular reclama hoy asumir posiciones claras en favor de este proyecto que la mayoría del pueblo impulsa. Con todas las contradicciones que implica un proceso dinámico, que involucra a millones de personas y a sus miles de dirigentes.",
+        "Esta es la tarea de la izquierda aquí y ahora. Con las dificultades que toda decisión trascendente implica. Pero con la certeza de ser fieles a nuestras banderas y a nuestro compromiso con el pueblo argentino.",
+        "El espacio de la izquierda real está en el FREJUPO. Y acá está el PI."
+      ],
+      "sellos_texto": [
+        "PRIMER ALENDE DIPUTADO",
+        "PRIMER RABANAQUE CONCEJAL"
+      ],
+      "logos_y_siglas": [
+        "El PI! PARTIDO INTRANSIGENTE Comité Capital",
+        "MENEM DUHALDE",
+        "FREJUPO [196-1989]"
+      ],
+      "colores": [
+        "Blanco",
+        "Negro",
+        "Escala de grises"
+      ],
+      "estilo_visual": "Publicidad impresa de alto contraste, blanco y negro, estilo tipográfico",
+      "elementos_graficos": [
+        "Títulos con tipografía manuscrita negrita sobre fondo de trazo de pincel",
+        "Sellos circulares con tipografía negrita"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f31_1",
+    "caracteristicas": {
+      "formato": "Aviso publicitario compuesto por dos columnas y múltiples bloques de texto",
+      "paleta_de_colores": "Blanco y negro",
+      "elementos_visuales": [
+        "Retrato fotográfico de Maria Julia Alsogaray",
+        "Retrato fotográfico de Álvaro Alsogaray",
+        "Diagrama de lista con estadísticas de gestión",
+        "Logo de la Ucede",
+        "Texto manuscrito o estilo tipográfico con énfasis",
+        "Listado de puntos de gestión política"
+      ],
+      "textos_principales": {
+        "titular_izquierdo": "A pesar de estar personalmente en contra, voto a favor por disciplina partidaria",
+        "titular_derecho": "LA SOLUCION ESTA EN SU VOTO",
+        "pie_izquierdo": "MARIA JULIA Senadora",
+        "pie_derecho": "ALSOGARAY PRESIDENTE",
+        "frase_destacada_derecha": "Faltan 60 horas para dejar atrás 60 años",
+        "subtitular_cierre": "JUNTOS PARA GANAR CON TRABAJO Y HONRADEZ"
+      },
+      "estadisticas_mencionadas": {
+        "presentismo": "93%",
+        "leyes_aprobadas": 11,
+        "proyectos_de_ley": 19,
+        "dictamenes": 303,
+        "leyes_del_pe_reformadas": 52,
+        "debates": 143
+      },
+      "nombres_propios_mencionados": [
+        "Fernando De la Rúa",
+        "Maria Julia Alsogaray",
+        "Isabel Perón",
+        "Angeloz",
+        "Casella"
+      ],
+      "partidos_mencionados": [
+        "UCEDE",
+        "Alianza de Centro"
+      ],
+      "tipografia": "Predominancia de tipografía sans-serif y serif en bloques de texto justificados y alineados a la izquierda"
+    }
+  },
+  {
+    "id_afiche": "f31_2",
+    "caracteristicas": {
+      "textos": {
+        "encabezado": "HAGA EL CENTRO CON ALSOGARAY",
+        "siglas_partido": "UCD",
+        "nombre_partido": "Unión del Centro Democrático",
+        "pie_de_pagina": "Integrantes de la Confederación Nacional de Centro"
+      },
+      "elementos_visuales": {
+        "imagen_central": "Retrato fotográfico en blanco y negro de un hombre de mediana edad, vestido con traje y corbata",
+        "simbolo_grafico": "Logotipo de la UCD que incluye un puño con el dedo índice levantado",
+        "marco": "Borde rectangular discontinuo compuesto por segmentos de línea negra"
+      },
+      "colores": [
+        "blanco",
+        "negro",
+        "azul"
+      ],
+      "tipografia": {
+        "estilo": "Sans-serif en negrita para el encabezado, serif para el resto del texto"
+      }
+    }
+  },
+  {
+    "id_afiche": "f32_1",
+    "caracteristicas": {
+      "texto_impreso": [
+        "ANGELOZ",
+        "CRISTINA",
+        "UN VOTO POSITIVO."
+      ],
+      "texto_manuscrito": [
+        "Eduardo",
+        "Guzmán"
+      ],
+      "disposicion": "Texto centrado en vertical",
+      "colores": {
+        "texto_principal": "Marrón oscuro",
+        "fondo": "Blanco con líneas horizontales tenues"
+      },
+      "tipografia": {
+        "estilo_principal": "Sans serif, gruesa, en mayúsculas",
+        "estilo_manuscrito": "Cursiva"
+      },
+      "elementos_visuales": {
+        "simbolo_central": "Signo más (+) entre ANGELOZ y CRISTINA",
+        "marco": "Banda rectangular con fondo marrón y letras blancas para la frase 'UN VOTO POSITIVO.'"
+      }
+    }
+  },
+  {
+    "id_afiche": "f33_1",
+    "caracteristicas": {
+      "personaje_principal": {
+        "descripcion": "Hombre de mediana edad, pelo canoso, usa anteojos de marco grueso oscuro, viste traje oscuro, camisa clara y corbata roja con lunares finos",
+        "expresion": "sonriente"
+      },
+      "texto": {
+        "principal": "ANGELOZ",
+        "secundario": "PRESIDENTE PARA TODOS",
+        "institucional": "UNION CIVICA RADICAL"
+      },
+      "colores_predominantes": [
+        "rojo",
+        "azul",
+        "blanco",
+        "negro"
+      ],
+      "simbolos": [
+        "Logo de la Union Civica Radical (UCR) ubicado en la esquina superior derecha"
+      ],
+      "composicion": {
+        "fondo": "Azul degradado",
+        "encuadre": "Retrato de busto centrado"
+      },
+      "tipografia": {
+        "nombre_candidato": "Sans-serif, negrita, mayúsculas, color rojo",
+        "eslogan": "Sans-serif, negrita, mayúsculas, color negro",
+        "partido": "Sans-serif, color blanco"
+      }
+    }
+  },
+  {
+    "id_afiche": "f33_2",
+    "caracteristicas": {
+      "imagen_principal": "Silla de oficina vacía sobre fondo claro",
+      "titulo": "LA SILLA VACIA DE MENEM",
+      "cuerpo_texto": [
+        "Estos no son agravios ni insultos, gobernador Menem. Estas son las conclusiones de todas las encuestas de opinión que se están haciendo en el país.",
+        "Muchos argentinos y argentinas dudan acerca de su capacidad e idoneidad para gobernar la Nación. Incluso buena parte de los que lo van a votar lo harán solo por la lealtad partidaria o en protesta contra el gobierno.",
+        "Convénzalo y convénzanos que las dudas no se justifican. Hay dos maneras contundentes de hacerlo:",
+        "1) Acepte un debate televisivo abierto, sin asesores, en un canal privado, con nuestro candidato, Eduardo Cesar Angeloz.",
+        "2) Si no quiere el debate, sométase a una entrevista televisada a todo el país, también sin asesores, ante los más calificados periodistas argentinos y corresponsales extranjeros. Nuestro candidato hará lo mismo.",
+        "No se esconda, gobernador Menem.",
+        "Ocupe la silla del debate y hágale un favor al país. Convénzanos que también tiene capacidad para sentarse en el sillón de Rivadavia."
+      ],
+      "firma": "UNION CIVICA RADICAL",
+      "logo": "UCR",
+      "esquema_color": "Blanco y negro",
+      "tipografia": "Sans-serif en negrita para títulos, sans-serif estándar para cuerpo"
+    }
+  },
+  {
+    "id_afiche": "f33_3",
+    "caracteristicas": {
+      "texto": [
+        "ANGELOZ",
+        "CASELLA",
+        "FUTURO PARA TODOS",
+        "UCR",
+        "UNION",
+        "CIVICA",
+        "RADICAL"
+      ],
+      "colores": [
+        "rojo",
+        "negro",
+        "blanco",
+        "escala de grises"
+      ],
+      "tipografia": {
+        "estilo": "sans-serif, negrita",
+        "color_texto_principal": "rojo"
+      },
+      "personas": [
+        {
+          "descripcion": "Dos hombres adultos vistiendo traje y corbata",
+          "caracteristicas_fisicas": "hombre a la izquierda con anteojos, hombre a la derecha sin anteojos",
+          "tipo_de_imagen": "fotografia en blanco y negro"
+        }
+      ],
+      "simbolos": [
+        {
+          "descripcion": "Logotipo de la UCR (Unión Cívica Radical)",
+          "posicion": "inferior derecha"
+        }
+      ],
+      "composicion": {
+        "disposicion": "vertical",
+        "elementos_visuales": [
+          "encabezado con nombres propios en fuente grande",
+          "fotografía central de los candidatos",
+          "lema en la parte inferior izquierda",
+          "logo y nombre del partido en la parte inferior derecha"
+        ]
+      }
+    }
+  },
+  {
+    "id_afiche": "f33_4",
+    "caracteristicas": {
+      "tipo_imagen": "Fotografía en blanco y negro",
+      "sujetos": [
+        {
+          "descripcion": "Dos hombres en traje",
+          "posicion": "Parte superior, plano medio",
+          "detalles": "El hombre de la izquierda utiliza lentes"
+        }
+      ],
+      "textos": {
+        "titular": "ANGELOZ-CASELLA",
+        "eslogan": "CON CAPACIDAD Y CORAJE SE PUEDE!",
+        "partido_politico": "UNION CIVICA RADICAL",
+        "instancia_partidaria": "Comité de la Provincia de Buenos Aires"
+      },
+      "simbolos": {
+        "tipo": "Escudo de la Unión Cívica Radical",
+        "siglas": "U.C.R."
+      },
+      "estilo_visual": {
+        "paleta_de_colores": "Blanco, negro y escala de grises",
+        "tipografia": "Sans-serif, negrita para los nombres propios y el eslogan"
+      }
+    }
+  },
+  {
+    "id_afiche": "f34_1",
+    "caracteristicas": {
+      "persona_principal": {
+        "descripcion": "Hombre de mediana edad, con patillas pronunciadas, vistiendo traje gris y corbata estampada",
+        "expresion": "sonriendo"
+      },
+      "texto_principal": {
+        "frase_superior": "No los voy a defraudar",
+        "frase_inferior": "Síganme!"
+      },
+      "elemento_grafico": {
+        "tipo": "sello circular",
+        "texto_dentro_del_sello": "PRESIDENTE DE LOS ARGENTINOS MENEM"
+      },
+      "composicion": {
+        "fondo": "negro con franja diagonal oscura en la parte inferior",
+        "tipo_de_letra": "serif, color blanco"
+      }
+    }
+  },
+  {
+    "id_afiche": "f34_2",
+    "caracteristicas": {
+      "texto_principal_superior": "EL UNICO CAMINO",
+      "texto_central_nombre": "MENEM",
+      "texto_subordinado_inferior": "LA UNIDAD NACIONAL",
+      "elementos_visuales": {
+        "objeto": "urna de madera",
+        "accion": "mano humana introduciendo un sobre",
+        "simbolo": "escudo nacional argentino estilizado"
+      },
+      "colores": [
+        "negro",
+        "azul",
+        "blanco"
+      ],
+      "tipografia": {
+        "estilo_principal": "sans-serif, bold",
+        "estilo_secundario": "sans-serif"
+      },
+      "composicion": "centralizada"
+    }
+  },
+  {
+    "id_afiche": "f34_3",
+    "caracteristicas": {
+      "formato": "Aviso publicitario compuesto por dos paneles",
+      "estilo_visual": "Blanco y negro, alto contraste, diseño tipográfico",
+      "textos_principales": [
+        "Usted que vive de su trabajo...",
+        "Sabe quién lo defiende.",
+        "La Argentina crecerá, cuando todos vivamos de nuestro trabajo."
+      ],
+      "textos_secundarios": [
+        "Para usted que siempre contribuyó con sus propias manos al futuro... (texto de cuerpo izquierdo)",
+        "Siempre decimos que debemos ser un gran país agropecuario... (texto de cuerpo derecho)",
+        "La Argentina crecerá cuando todos vivamos de nuestro trabajo.",
+        "Con la dignidad del trabajo vuelve el futuro a tu tierra."
+      ],
+      "nombres_candidatos": [
+        "MENEM",
+        "DUHALDE"
+      ],
+      "tipografia": "Sans-serif negrita, de estilo industrial/editorial",
+      "colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "elementos_graficos": [
+        "Dos bloques de texto independientes con firma común en la parte inferior",
+        "Uso de mayúsculas sostenidas en las frases principales y nombres de candidatos"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f34_4",
+    "caracteristicas": {
+      "persona_principal": {
+        "descripcion": "Hombre de tez clara, cabello oscuro con patillas, sonriendo mostrando los dientes",
+        "vestimenta": "Traje de color claro",
+        "encuadre": "Primer plano, rostro y hombros"
+      },
+      "texto": {
+        "eslogan": "Para cambiar la historia",
+        "nombre_candidato": "MENEM"
+      },
+      "tipografia": {
+        "eslogan": "Sans-serif, negrita, alineada a la izquierda",
+        "nombre_candidato": "Sans-serif, negrita, caja alta"
+      },
+      "colores": {
+        "fondo_texto": "Blanco",
+        "texto_eslogan": "Negro",
+        "texto_nombre": "Azul oscuro",
+        "acento_nombre": "Detalle en celeste y blanco en la letra N"
+      },
+      "composicion": {
+        "distribucion": "Imagen del candidato a la izquierda, texto a la derecha sobre fondo blanco",
+        "orientacion": "Horizontal"
+      }
+    }
+  },
+  {
+    "id_afiche": "f34_5",
+    "caracteristicas": {
+      "texto_principal": [
+        "LIBRO AZUL Y BLANCO",
+        "TODA LA VERDAD QUE EL PUEBLO QUIERE SABER",
+        "MENEM - DUHALDE"
+      ],
+      "texto_secundario": "DOS MIL DIAS DE MENTIRA RADICAL",
+      "personas": [
+        "Carlos Menem",
+        "Eduardo Duhalde"
+      ],
+      "colores_predominantes": [
+        "Azul",
+        "Blanco",
+        "Amarillo"
+      ],
+      "elementos_visuales": {
+        "tipo_de_imagen": "Fotografía retrato de dos personas",
+        "disposicion": "Retratos colocados en un marco rectangular central"
+      },
+      "tipografia": {
+        "estilo": "Sans-serif",
+        "formato": "Negrita y mayúsculas"
+      },
+      "fondo": "Color azul sólido"
+    }
+  },
+  {
+    "id_afiche": "f34_6",
+    "caracteristicas": {
+      "personajes": [
+        {
+          "nombre": "Menem",
+          "descripcion": "Hombre de tez clara, cabello oscuro, sonriendo, viste camisa a rayas azul y blanca y una chaqueta celeste"
+        },
+        {
+          "nombre": "Duhalde",
+          "descripcion": "Hombre de tez clara, cabello oscuro, sonriendo, viste camisa a rayas azul y blanca y una chaqueta clara"
+        }
+      ],
+      "texto": {
+        "contenido": "MENEM-DUHALDE",
+        "color": "naranja",
+        "estilo": "mayúsculas, tipografía sans-serif gruesa"
+      },
+      "simbolos": {
+        "fondo": "banderas de Argentina estilizadas en tonos celestes y blancos"
+      },
+      "elementos_visuales": {
+        "fondo_silueta": "silueta negra de una multitud en la parte inferior",
+        "marco": "rectángulo con borde blanco"
+      }
+    }
+  },
+  {
+    "id_afiche": "f34_7",
+    "caracteristicas": {
+      "titulo": "CREDENCIAL DE LA ESPERANZA",
+      "tipografia_titulo": "Sans serif, negrita, mayúsculas, color blanco",
+      "personas": [
+        {
+          "nombre": "Menem",
+          "posicion": "izquierda"
+        },
+        {
+          "nombre": "Duhalde",
+          "posicion": "derecha"
+        }
+      ],
+      "texto_nombres": {
+        "contenido": "MENEM - DUHALDE",
+        "color": "naranja",
+        "tipografia": "Sans serif, negrita, mayúsculas"
+      },
+      "elementos_visuales": {
+        "fondo": "azul",
+        "simbolos": "banderas argentinas en la parte superior central",
+        "marco": "rectángulo blanco alrededor de la imagen central"
+      }
+    }
+  },
+  {
+    "id_afiche": "f34_8",
+    "caracteristicas": {
+      "texto_principal": [
+        "AHORA UNIDOS",
+        "AHORA MENEM"
+      ],
+      "texto_secundario": [
+        "MENEM Presidente",
+        "CIUDAD NACIONAL PARA UNA DEMOCRACIA SOLIDA, QUE CUMPLA SUS PROMESAS, PROPORCIONE BIENESTAR GENERAL, Y PONGA EN MARCHA, CON ENTUSIASMO, UN PAIS SIN CONTRADICCIONES."
+      ],
+      "firma": "Carlos S. Menem",
+      "personaje": {
+        "descripcion": "Hombre de tez clara, cabello oscuro y patillas largas, vistiendo traje oscuro con corbata negra",
+        "pose": "Retrato de frente, plano medio, sonriendo"
+      },
+      "elementos_graficos": {
+        "formato": "Rectangular vertical con recuadro central",
+        "cintillo": "Rectángulo azul inclinado con borde superior e inferior",
+        "tipografia": {
+          "estilo_principal": "Sans-serif, negrita, mayúsculas",
+          "estilo_firma": "Manuscrita"
+        }
+      },
+      "paleta_colores": [
+        "Azul",
+        "Blanco",
+        "Negro",
+        "Rojo"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f34_9",
+    "caracteristicas": {
+      "paleta_de_colores": "Blanco y negro",
+      "elementos_graficos": [
+        "Tres sillas de oficina con ruedas dispuestas una al lado de la otra"
+      ],
+      "textos": {
+        "titulo": "LAS SILLAS VACIAS DE ANGELOZ",
+        "cuerpo": "Los radicales han inventado el juego de las sillas vacías, como un salvavidas publicitario, porque su candidato no tiene ninguna posibilidad electoral. Los peronistas pensamos que el país no está para juegos. Juegos con pretenden ocultar a los argentinos las verdaderas sillas vacías del radicalismo. Sillas en que han quedado solos, desconectados, del de los campesinos, los jubilados, los maestros, los estudiantes, los profesionales. Estas sillas vacías son el símbolo de la soledad del gobierno del cual Angeloz forma parte. Ya nadie se quiere sentar con los radicales.",
+        "eslogan": "PARA CAMBIAR LA HISTORIA",
+        "firma": "MENEM"
+      },
+      "tipografia": {
+        "titulo": "Sans serif, negrita, mayúsculas",
+        "cuerpo": "Sans serif, legible",
+        "firma": "Sans serif, negrita, extra bold"
+      },
+      "composicion": "Centrada, con imagen superior, bloque de texto central y firma destacada en la parte inferior"
+    }
+  },
+  {
+    "id_afiche": "f34_10",
+    "caracteristicas": {
+      "persona_principal": "Hombre de tez clara, pelo oscuro, sonriendo",
+      "vestimenta": "Camisa de rayas verticales blancas y verdes",
+      "texto_principal": "Síganme!",
+      "texto_secundario": "1989",
+      "texto_candidatos": "MENEM-DUHALDE",
+      "insignia": {
+        "texto": "PRESIDENTE DE LOS ARGENTINOS",
+        "nombre_central": "MENEM",
+        "forma": "circular"
+      },
+      "colores_predominantes": [
+        "negro",
+        "blanco",
+        "verde",
+        "azul"
+      ],
+      "estilo_tipografico": "sans-serif negrita para los nombres, script/cursiva para el eslogan principal"
+    }
+  },
+  {
+    "id_afiche": "f34_11",
+    "caracteristicas": {
+      "personas": [
+        {
+          "nombre": "Carlos Menem",
+          "vestimenta": "Traje a rayas verde, camisa azul clara, corbata estampada"
+        },
+        {
+          "nombre": "Eduardo Duhalde",
+          "vestimenta": "Traje oscuro, camisa blanca, corbata roja"
+        }
+      ],
+      "texto_principal": "Hacia la unidad nacional.",
+      "texto_secundario": [
+        "MENEM",
+        "DUHALDE"
+      ],
+      "insignia": {
+        "tipo": "Logotipo circular",
+        "contenido": "PRESIDENTE DE MENEM LOS ARGENTINOS"
+      },
+      "colores_dominantes": [
+        "verde",
+        "azul",
+        "rojo",
+        "blanco",
+        "negro"
+      ],
+      "tipografia": "Cursiva elegante para el slogan, sans-serif en negrita para los nombres",
+      "fondo": "Negro en la parte superior, negro con degradado en la parte inferior"
+    }
+  },
+  {
+    "id_afiche": "f34_12",
+    "caracteristicas": {
+      "personas": [
+        {
+          "descripcion": "Hombre con cabello oscuro, patillas largas, sonriendo, vistiendo una campera azul turquesa sobre una camisa a rayas",
+          "ubicacion": "Izquierda"
+        },
+        {
+          "descripcion": "Hombre con cabello oscuro, vistiendo una campera celeste claro sobre una camisa a rayas",
+          "ubicacion": "Derecha"
+        }
+      ],
+      "texto_principal": {
+        "contenido": "La Esperanza es el camino.",
+        "formato": "Letras blancas con tipografía serif inclinada",
+        "ubicacion": "Parte inferior sobre fondo negro"
+      },
+      "texto_secundario": {
+        "contenido": "PRESIDENTE DE MENEM LOS ARGENTINOS",
+        "formato": "Letras negras dentro de un sello circular blanco con bordes negros",
+        "ubicacion": "Esquina inferior derecha"
+      },
+      "colores_predominantes": [
+        "Negro",
+        "Azul turquesa",
+        "Celeste",
+        "Blanco"
+      ],
+      "estilo_visual": "Fotografía tipo retrato con iluminación frontal sobre fondo oscuro"
+    }
+  },
+  {
+    "id_afiche": "f35_1",
+    "caracteristicas": {
+      "personaje_principal": {
+        "nombre": "Herminio Iglesias",
+        "descripcion_visual": "Hombre de mediana edad, sonriendo, con camisa clara, con el brazo derecho levantado y el pulgar hacia arriba"
+      },
+      "textos": {
+        "titular_principal": "HERMINIO ES PUEBLO",
+        "apellido_destacado": "Iglesias",
+        "eslogan_inferior": "Paz, pan y trabajo para toda la Provincia!",
+        "frase_adicional": "El genio, es también trabajo.",
+        "autor_cita": "Juan D Perón."
+      },
+      "elementos_graficos": {
+        "simbolo_partidario": "Escudo del Partido Justicialista en la esquina inferior izquierda",
+        "disposicion_textual": "Texto principal alineado a la derecha del personaje, frases inferiores en una franja azul sólida"
+      },
+      "paleta_de_colores": [
+        "azul",
+        "blanco",
+        "marrón oscuro/negro"
+      ],
+      "tipografia": {
+        "titulo": "Sans-serif, negrita, mayúsculas",
+        "cuerpo": "Sans-serif, peso regular"
+      }
+    }
+  },
+  {
+    "id_afiche": "f35_2",
+    "caracteristicas": {
+      "texto_principal": [
+        "HERMINIO IGLESIAS",
+        "GOBERNADOR DE LOS DESCAMISADOS",
+        "VOTE LISTA",
+        "N° 2"
+      ],
+      "persona_representada": {
+        "tipo": "retrato fotográfico",
+        "estilo": "blanco y negro",
+        "angulo": "perfil tres cuartos"
+      },
+      "simbolos": {
+        "logo_partidario": "escudo con dos manos entrelazadas en la parte superior izquierda"
+      },
+      "tipografia": {
+        "estilo": "serif",
+        "formato": "mayúsculas"
+      },
+      "colores": [
+        "blanco",
+        "negro"
+      ],
+      "disposicion_visual": {
+        "estructura": "foto a la izquierda, texto a la derecha, numero de lista en la parte inferior derecha",
+        "formato_fisico": "póster con pliegues marcados"
+      }
+    }
+  },
+  {
+    "id_afiche": "f35_3",
+    "caracteristicas": {
+      "encabezado": {
+        "titulo": "HERMINIO IGLESIAS AL PUEBLO ARGENTINO",
+        "fuente": "Diario Clarín, viernes 28 de octubre de 1983, Página 26",
+        "tipo_publicacion": "Solicitada"
+      },
+      "partido_politico": {
+        "nombre": "PARTIDO JUSTICIALISTA",
+        "subtitulo": "De la Provincia de Buenos Aires",
+        "logotipo": "Escudo del Partido Justicialista"
+      },
+      "cuerpo_texto": {
+        "encabezado_carta": "A MIS COMPAÑEROS, A MIS COMPATRIOTAS",
+        "formato": "Cuerpo de texto extenso en tipografía tipo máquina de escribir",
+        "contenido": "Carta abierta dividida en 6 párrafos que incluye reflexiones sobre la campaña electoral, historia personal, experiencia obrera, democracia y agradecimientos"
+      },
+      "firma": {
+        "texto": "Un abrazo",
+        "manuscrito": "Firma ilegible de Herminio Iglesias"
+      },
+      "diseno_grafico": {
+        "estilo": "Minimalista y austero, estilo de documento institucional",
+        "color": "Blanco y negro",
+        "formato_visual": "Texto enmarcado por un recuadro rectangular"
+      }
+    }
+  },
+  {
+    "id_afiche": "f36_1",
+    "caracteristicas": {
+      "texto_principal": "AHORA ALFONSIN.",
+      "texto_secundario": "ALFONSIN-MARTINEZ",
+      "persona_principal": "Raúl Alfonsín",
+      "gesto_persona": "manos unidas en señal de victoria o saludo",
+      "vestimenta": "traje oscuro con corbata",
+      "esquema_de_colores": [
+        "rojo",
+        "negro",
+        "blanco",
+        "beige"
+      ],
+      "simbolos": [
+        {
+          "nombre": "sello circular RA",
+          "detalle": "contiene las siglas RA"
+        },
+        {
+          "nombre": "escudo UCR",
+          "detalle": "emblema de la Unión Cívica Radical"
+        }
+      ],
+      "estilo_visual": "fotografía en blanco y negro con tipografía de alto contraste",
+      "tipografia": "tipo sans-serif en negrita y mayúsculas"
+    }
+  },
+  {
+    "id_afiche": "f36_2",
+    "caracteristicas": {
+      "persona_principal": {
+        "descripcion": "Hombre de mediana edad, con bigote, vistiendo traje y corbata oscuros, sonriendo y sosteniendo sus manos entrelazadas frente al pecho.",
+        "identidad": "Raúl Alfonsín"
+      },
+      "texto_principal": {
+        "contenido": "AHORA ALFONSIŃ.",
+        "estilo": "Tipografía en mayúsculas, sans-serif, color blanco."
+      },
+      "texto_secundario_superior": {
+        "contenido": "UNION CIVICA RADICAL",
+        "estilo": "Tipografía en mayúsculas, sans-serif, color azul."
+      },
+      "simbolo_inferior": {
+        "forma": "Óvalo",
+        "diseno": "Franjas horizontales con los colores de la bandera argentina (celeste y blanco)",
+        "texto_interno": {
+          "siglas": "RA",
+          "nombre_completo": "RAUL ALFONSIN"
+        }
+      },
+      "colores_predominantes": [
+        "blanco",
+        "azul",
+        "celeste",
+        "negro"
+      ],
+      "estilo_visual": "Fotografía en blanco y negro con elementos gráficos superpuestos en colores."
+    }
+  },
+  {
+    "id_afiche": "f36_3",
+    "caracteristicas": {
+      "texto_principal": "ALFONSIN, DE LA RUA Y USTED. JUNTOS PARA GANAR.",
+      "texto_adicional": [
+        "VOTE LISTA 3",
+        "RA",
+        "RAUL ALFONSIN",
+        "UNION CIVICA RADICAL"
+      ],
+      "personas": [
+        {
+          "descripcion": "Hombre con bigote, vistiendo traje y corbata, con la mano izquierda levantada saludando.",
+          "nombre_identificado": "Raul Alfonsin"
+        },
+        {
+          "descripcion": "Hombre sin bigote, vistiendo traje y corbata, con la mano derecha levantada saludando.",
+          "nombre_identificado": "Fernando de la Rua"
+        }
+      ],
+      "colores": [
+        "blanco",
+        "negro",
+        "sepia (fondo)"
+      ],
+      "simbolos": {
+        "forma_central": "ovalo con franja horizontal simulando bandera argentina",
+        "siglas": "RA"
+      },
+      "tipografia": "Sans serif, negrita, mayusculas",
+      "estilo_visual": "fotografia blanco y negro con tonalidad sepia, estilo clasico de poster electoral"
+    }
+  },
+  {
+    "id_afiche": "f36_4",
+    "caracteristicas": {
+      "texto_principal": "TODOS CON ALFONSIN AL LUNA PARK",
+      "fecha_y_hora": "30 DE OCTUBRE A LAS 18HS",
+      "referencia_historica": "1983 - 25 AÑOS DE DEMOCRACIA - 2008",
+      "identidad_organizadora": "UCR MORENO",
+      "eslogan_inferior": "SABEMOS QUEREMOS PODEMOS",
+      "elementos_graficos": {
+        "persona": "fotografía en blanco y negro de Raúl Alfonsín dando un discurso frente a una multitud",
+        "insignia": "óvalo con la bandera argentina y las letras RA",
+        "fondo": "fotografía de una multitud en un estadio"
+      },
+      "colores": {
+        "predominantes": [
+          "blanco",
+          "negro",
+          "rojo",
+          "azul",
+          "celeste"
+        ]
+      },
+      "tipografia": {
+        "estilo": "sans-serif, negrita, mayúsculas"
+      }
+    }
+  },
+  {
+    "id_afiche": "f36_5",
+    "caracteristicas": {
+      "encabezado": "COMPRE UN BONO DE $a 10. Y OLVIDELO.",
+      "cuerpo_texto": "Hasta ahora, hemos llevado adelante nuestra campaña gracias a los aportes de muchos de nuestros afiliados. Unos pocos pesos, multiplicados por un millón y medio de personas, hacen una cifra considerable. También hemos recibido el generoso aporte de algunos empresarios argentinos, memoriosos de que el radicalismo, siempre favoreció a la industria nacional. Al levantar las cortinas de las fábricas, hay más trabajo para los obreros, y se reactiva todo el ciclo de la economía. Por supuesto, no podemos pedir dinero a quien no tiene trabajo. Pero, por el bien de ellos y del país todo, se lo pedimos a usted. Si es afiliado y puede, lo esperamos. Si no lo es, pero esta vez piensa votar por ALFONSIN-MARTINEZ, lo valoraremos mucho más. Compre un Bono de Campaña. Y olvidelo. Cuando seamos gobierno, no le dará derecho a ningún privilegio. Porque usted sabe que somos honestos.",
+      "pie_de_pagina": "Puede adquirir los Bonos (bonos de 10 hasta 10.000 pesos) en el Comité Nacional, Comité Capital, y en los distintos comités de barrio. O si prefiere, enviando cheque a la orden de Union Civica Radical 'no a la orden' con su talón adjunto. COMITE NACIONAL: Alsina 1760",
+      "elementos_graficos": {
+        "logos": [
+          "Logo UCR",
+          "Escudo partidario UCR"
+        ],
+        "cupon_de_donacion": {
+          "titulo": "BONO CONTRIBUCION CAMPAÑA ELECTORAL",
+          "candidatos": "ALFONSIN-MARTINEZ",
+          "campos_formulario": [
+            "NOMBRE",
+            "APELLIDO",
+            "DIRECCION"
+          ]
+        }
+      },
+      "estilo_visual": {
+        "paleta_de_colores": "Blanco y negro",
+        "tipo_de_fuente": "Serif y Sans-serif",
+        "distribucion": "Texto predominante con sección inferior tipo cupón"
+      }
+    }
+  },
+  {
+    "id_afiche": "f36_6",
+    "caracteristicas": {
+      "colores": [
+        "blanco",
+        "negro"
+      ],
+      "texto": {
+        "titular": "EL ALFONSINAZO EN FERRO.",
+        "siglas_inferiores": "RA",
+        "fecha_hora": "EL VIERNES 30 A LAS 19 HS.",
+        "subtitulo_oradores": "Hablarán",
+        "nombres_oradores": [
+          "FERNANDO DE LA RUA",
+          "RAUL ALFONSIN"
+        ]
+      },
+      "elementos_visuales": {
+        "tipo_imagen": "fotografía de alto contraste (blanco y negro)",
+        "contenido_imagen": "hombre hablando frente a un micrófono ante una multitud",
+        "simbolos": "logotipo de U.C.R. en la esquina inferior derecha"
+      },
+      "tipografia": {
+        "estilo": "sans-serif, bold, estilo bloque"
+      }
+    }
+  },
+  {
+    "id_afiche": "f36_7",
+    "caracteristicas": {
+      "colores": [
+        "blanco",
+        "negro"
+      ],
+      "estilo_visual": "alto contraste, blanco y negro, tipo silueta o grabado",
+      "textos_principales": [
+        "AHORA MOSTREMOS QUE SOMOS MAS.",
+        "EL 26 A LAS 17 HS. EN EL OBELISCO.",
+        "VOTE LISTA 3",
+        "AHORA ALFONSIN.",
+        "RA",
+        "JUVENTUD RADICAL"
+      ],
+      "elementos_graficos": {
+        "figura_humana": "persona masculina con traje, sonriendo, con la mano cerca de la cara",
+        "simbolo_central": "óvalo con las letras RA en el centro"
+      },
+      "tipografia": "tipo sans-serif, bold, impactante",
+      "elementos_adicionales": "cuerpo de texto inferior que indica fecha, hora y lugar"
+    }
+  },
+  {
+    "id_afiche": "f36_8",
+    "caracteristicas": {
+      "colores": [
+        "blanco",
+        "negro"
+      ],
+      "textos": [
+        "AHORA",
+        "TRABAJO",
+        "PARA TODOS.",
+        "VOTE LISTA 3",
+        "Plena ocupación.",
+        "Salario minimo vital móvil.",
+        "Subsidio digno a los desocupados.",
+        "Sindicatos fuertes y democráticos.",
+        "Derecho de huelga.",
+        "Paritarias.",
+        "AHORA ALFONSIN.",
+        "RA",
+        "UNION CIVICA RADICAL"
+      ],
+      "personajes": [
+        "hombre con bigote, vistiendo traje y corbata, con las manos entrelazadas"
+      ],
+      "elementos_graficos": [
+        "óvalo conteniendo las letras RA"
+      ],
+      "estilo_visual": "alto contraste, blanco y negro, estilo gráfico de afiche de campaña política"
+    }
+  },
+  {
+    "id_afiche": "f36_9",
+    "caracteristicas": {
+      "titulo": "LA MUJER MEDIDAS PARA QUE SU VIDA CAMBIE",
+      "cuerpo_texto": "Lista de propuestas electorales dispuesta en dos columnas con viñetas",
+      "persona_principal": "Hombre con bigote, vistiendo traje y corbata, con las manos juntas en gesto de saludo o celebración",
+      "eslogan_principal": "AHORA ALFONSIN.",
+      "informacion_electoral": {
+        "partido": "UNION CIVICA RADICAL",
+        "siglas": "RA",
+        "llamado_a_la_accion": "VOTE LISTA 3"
+      },
+      "estilo_visual": "Blanco y negro, estilo gráfico de época de campaña electoral",
+      "tipografia": "Sans-serif en negrita para los encabezados"
+    }
+  },
+  {
+    "id_afiche": "f36_10",
+    "caracteristicas": {
+      "texto_principal": "MAS QUE UNA SALIDA ELECTORAL, ES UNA ENTRADA A LA VIDA.",
+      "texto_secundario": "AHORA ALFONSIN.",
+      "siglas": "RA",
+      "partido_politico": "UNION CIVICA RADICAL",
+      "elementos_graficos": [
+        "imagen de una puerta abierta con luz intensa saliendo de ella",
+        "circulo rodeando las siglas RA"
+      ],
+      "paleta_de_colores": [
+        "blanco",
+        "negro"
+      ],
+      "estilo_tipografico": "sans-serif, bold, mayusculas",
+      "orientacion": "vertical"
+    }
+  },
+  {
+    "id_afiche": "f36_11",
+    "caracteristicas": {
+      "texto_principal": [
+        "VOTE LAS BOLETAS DE LA LISTA",
+        "3",
+        "EL ALFONSINAZO EN LAS URNAS.",
+        "AHORA ALFONSIN.",
+        "RA",
+        "RAUL ALFONSIN",
+        "UNION CIVICA RADICAL"
+      ],
+      "colores_predominantes": [
+        "azul",
+        "blanco",
+        "negro"
+      ],
+      "elementos_visuales": {
+        "figura_central": "fotografía en blanco y negro de un hombre sonriendo con las manos entrelazadas",
+        "numero_destacado": "3 (en tipografía grande, color azul)",
+        "insignia": "óvalo con fondo azul claro y letras RA"
+      },
+      "tipografia": {
+        "estilo": "sans-serif",
+        "peso": "negrita"
+      },
+      "composicion": {
+        "orientacion": "horizontal",
+        "distribucion": "texto a la izquierda, imagen de persona a la derecha"
+      }
+    }
+  },
+  {
+    "id_afiche": "f36_12",
+    "caracteristicas": {
+      "texto_principal": [
+        "PARA QUE",
+        "ALFONSIN",
+        "SEA SU",
+        "PRESIDENTE",
+        "AFILIESE A LA",
+        "UNION CIVICA RADICAL"
+      ],
+      "persona_central": {
+        "tipo": "retrato fotográfico",
+        "sujeto": "hombre adulto",
+        "vestimenta": "traje oscuro, camisa clara, corbata",
+        "caracteristicas_fisicas": "bigote, cabello oscuro"
+      },
+      "paleta_de_colores": {
+        "fondo": [
+          "azul",
+          "blanco",
+          "crema"
+        ],
+        "texto": [
+          "azul"
+        ]
+      },
+      "tipografia": {
+        "estilo": "sans-serif, geométrica, negrita",
+        "alineacion": "izquierda"
+      },
+      "disposicion": {
+        "seccion_superior": "texto sobre fondo azul",
+        "seccion_inferior": "texto sobre fondo crema",
+        "ubicacion_imagen": "derecha"
+      }
+    }
+  },
+  {
+    "id_afiche": "f36_13",
+    "caracteristicas": {
+      "texto_principal": "VOTE LAS BOLETAS DE LA LISTA 3",
+      "texto_secundario": "EL ALFONSINAZO EN LAS URNAS.",
+      "texto_eslogan": "AHORA ALFONSIN.",
+      "elementos_visuales": {
+        "persona": "Hombre de mediana edad con bigote, sonriendo y con las manos juntas frente al pecho",
+        "numero_destacado": "3",
+        "simbolo": "Óvalo con las siglas RA y la leyenda 'RAUL ALFONSIN'"
+      },
+      "tipografia": {
+        "estilo": "Sans-serif, negrita, mayúsculas, sans-serif para los textos, tipografía gruesa para el número 3"
+      },
+      "paleta_de_colores": "Blanco y negro",
+      "pie_de_imagen": "UNION CIVICA RADICAL"
+    }
+  },
+  {
+    "id_afiche": "f36_14",
+    "caracteristicas": {
+      "texto_principal": [
+        "AHORA",
+        "EL ARGENTINAZO",
+        "CON ALFONSIN!",
+        "EL 26, A LAS 17 HS. EN EL OBELISCO.",
+        "Y EL 30 EN LAS URNAS.",
+        "UCR LISTA 3"
+      ],
+      "colores": [
+        "Negro",
+        "Rojo",
+        "Blanco (fondo)",
+        "Celeste (en el isotipo)"
+      ],
+      "tipografia": "Sans serif, gruesa, en mayúsculas y negrita",
+      "simbolos": {
+        "isotipo": {
+          "descripcion": "Óvalo con fondo celeste y blanco",
+          "texto_interno": "RA",
+          "subtexto": "RAUL ALFONSIN"
+        }
+      },
+      "disposicion": "Texto centrado",
+      "elementos_graficos": [
+        "Óvalo contenedor del isotipo"
+      ]
+    }
+  },
+  {
+    "id_afiche": "f36_15",
+    "caracteristicas": {
+      "descripcion_general": "Composición que muestra dos afiches políticos distintos colocados uno al lado del otro",
+      "afiche_izquierdo": {
+        "texto_principal": "AHORA ALFONSIN.",
+        "partido": "UNION CIVICA RADICAL",
+        "texto_inferior": "RA RAUL ALFONSIN",
+        "simbolo": "Circulo azul y blanco con las siglas RA",
+        "personaje": "Hombre de traje saludando con las manos entrelazadas",
+        "colores_predominantes": [
+          "negro",
+          "blanco",
+          "azul"
+        ]
+      },
+      "afiche_derecho": {
+        "texto_principal": "AHORA ALFONSIN, EL HOMBRE QUE HACE FALTA.",
+        "texto_inferior": "RA UCR VOTE LISTA 3",
+        "simbolo": "Circulo con siglas RA",
+        "personaje": "Hombre de traje señalando con el dedo índice hacia la derecha",
+        "colores_predominantes": [
+          "blanco",
+          "negro",
+          "rojo"
+        ]
+      }
+    }
+  },
+  {
+    "id_afiche": "f36_16",
+    "caracteristicas": {
+      "texto_principal": "AHORA SALUD PARA TODOS.",
+      "subtitulo_destacado": "AHORA ALFONSIN.",
+      "lista_propuestas": [
+        "Terminar con la desnutrición infantil.",
+        "Plan alimentario de emergencia.",
+        "Hospitales equipados y gratuitos.",
+        "Servicios sociales a los desocupados.",
+        "Ley de medicamentos.",
+        "Seguro de enfermedad.",
+        "Dispensarios en todos los barrios."
+      ],
+      "informacion_electoral": {
+        "lema_de_voto": "VOTE LISTA 3",
+        "siglas": "RA",
+        "partido_politico": "UNION CIVICA RADICAL"
+      },
+      "elementos_visuales": {
+        "persona": "hombre con bigote, vistiendo traje y corbata, con las manos juntas en gesto de saludo o agradecimiento",
+        "logo_partidario": "elipse con las letras RA",
+        "estilo_estetico": "blanco y negro"
+      },
+      "tipografia": {
+        "titulo": "sans-serif, negrita, mayúsculas",
+        "cuerpo": "serif, formato lista con viñetas"
+      }
+    }
+  },
+  {
+    "id_afiche": "f36_17",
+    "caracteristicas": {
+      "texto_principal": "AHORA ALFONSIN, EL HOMBRE QUE HACE FALTA.",
+      "texto_secundario": "UCR VOTE LISTA 3",
+      "persona_identificada": "Raúl Alfonsín",
+      "descripcion_persona": "Hombre con bigote, vistiendo saco y corbata, señalando con el dedo índice derecho hacia la derecha de la imagen.",
+      "estilo_visual": "Fotografía en blanco y negro con alto contraste",
+      "simbolos": {
+        "insignia": {
+          "texto": "RA",
+          "subtexto": "RAUL ALFONSIN",
+          "forma": "Elipse con los colores de la bandera argentina (celeste y blanco)"
+        }
+      },
+      "tipografia": "Sans-serif, negrita, mayúsculas, diseño industrial/institucional",
+      "composicion": "Alineación horizontal con el personaje en el lado izquierdo y el texto principal ocupando el centro superior"
+    }
+  },
+  {
+    "id_afiche": "f36_18",
+    "caracteristicas": {
+      "texto_principal": "AHORA ALFONSIN.",
+      "texto_secundario": "JUNTOS, PARA QUE ARGENTINA GANE.",
+      "texto_pie": "UNION CIVICA RADICAL",
+      "persona_principal": {
+        "nombre": "Raúl Alfonsín",
+        "descripcion": "Hombre con bigote, sonriendo",
+        "accion": "Manos entrelazadas por encima del pecho"
+      },
+      "simbolos": [
+        {
+          "tipo": "Logotipo partido",
+          "descripcion": "Emblema circular con las siglas UCR"
+        }
+      ],
+      "estilo_visual": {
+        "tipo_imagen": "Fotografía en blanco y negro",
+        "colores_predominantes": [
+          "rojo",
+          "blanco",
+          "negro"
+        ],
+        "tipografia": {
+          "estilo": "Sans-serif",
+          "peso": "Negrita"
+        }
+      }
+    }
+  },
+  {
+    "id_afiche": "f36_19",
+    "caracteristicas": {
+      "texto_principal": "MAS QUE UNA SALIDA ELECTORAL ES UNA ENTRADA A LA VIDA.",
+      "texto_nombres": "ALFONSIN-MARTINEZ",
+      "siglas": "U.C.R.",
+      "personas": [
+        {
+          "descripcion": "Dos hombres adultos, ambos con traje y corbata, estrechándose la mano y con una actitud de cercanía.",
+          "gestualidad": "El hombre de la izquierda sonríe, el hombre de la derecha mira al de la izquierda con expresión seria."
+        }
+      ],
+      "colores_predominantes": [
+        "rojo",
+        "beige",
+        "negro"
+      ],
+      "simbolos": [
+        {
+          "tipo": "emblema",
+          "descripcion": "Óvalo con las siglas RA dentro, ubicado sobre el hombre de la izquierda."
+        },
+        {
+          "tipo": "logo_partidario",
+          "descripcion": "Escudo de la U.C.R. ubicado en la parte inferior derecha."
+        }
+      ],
+      "tipografia": "Sans-serif, negrita, mayúsculas."
+    }
+  },
+  {
+    "id_afiche": "f37_1",
+    "caracteristicas": {
+      "titular": "LOS DIAS MAS FELICES DE LOS TRABAJADORES FUERON PERONISTAS",
+      "subtitular": "EL FUTURO TAMBIEN",
+      "candidatos": "LUDER-BITTEL",
+      "lista": "Lista 2",
+      "numero_organizacion": "62",
+      "texto_organizacion": "ORGANIZACIONES",
+      "agrupacion_nombre": "MONABARA",
+      "agrupacion_descripcion": "Movimiento Nacional Bancario de la República Argentina",
+      "fecha_fundacion": "Fundado el 28 de noviembre de 1956",
+      "palabras_clave_adicionales": "equipos de difusión",
+      "colores_predominantes": [
+        "azul",
+        "blanco"
+      ],
+      "elementos_graficos": {
+        "logotipo_central": "símbolo con forma de mano con dedos extendidos hacia arriba",
+        "fotografias": [
+          "montaje de 9 fotos en blanco y negro",
+          "imágenes muestran escenas cotidianas, recreativas y laborales",
+          "una fotografía central de gran tamaño muestra una multitud",
+          "imágenes laterales incluyen personas caminando, deporte, ocio y un pescador"
+        ]
+      },
+      "tipografia": "sans-serif, mayúsculas, negrita"
+    }
+  },
+  {
+    "id_afiche": "f37_2",
+    "caracteristicas": {
+      "texto_principal_superior": "LUDER BITTEL",
+      "texto_principal_central": "EL PUEBLO AL PODER",
+      "texto_pie_pagina": "PARTIDO JUSTICIALISTA\nConsejo Nacional",
+      "colores_predominantes": [
+        "azul",
+        "naranja",
+        "blanco"
+      ],
+      "estilo_tipografico": {
+        "encabezado": "sans-serif, negrita, color naranja",
+        "cuerpo": "sans-serif, negrita, color blanco",
+        "pie": "sans-serif, color blanco"
+      },
+      "elementos_visuales": {
+        "fondo": "color azul sólido",
+        "ilustraciones": "ninguna",
+        "fotografias": "ninguna",
+        "simbolos": "ninguno"
+      },
+      "composicion": "centrada verticalmente con bloques de texto jerarquizados"
+    }
+  },
+  {
+    "id_afiche": "f37_3",
+    "caracteristicas": {
+      "partido_politico": "PARTIDO JUSTICIALISTA",
+      "subtitulo": "SINTESIS DE SU PLATAFORMA POLITICA",
+      "elementos_graficos": {
+        "logotipo_superior": "Dibujo lineal de una mano sosteniendo una antorcha dentro de un contorno arqueado",
+        "fotografias": [
+          {
+            "sujeto": "Tte. Gral. JUAN D. PERON",
+            "descripcion": "Hombre con brazos levantados en saludo, sonriendo"
+          },
+          {
+            "sujeto": "Dr. ITALO ARGENTINO LUDER",
+            "rol": "Candidato a Presidente de la República",
+            "descripcion": "Retrato de perfil, mirando hacia la derecha"
+          },
+          {
+            "sujeto": "Esc. DEOLINDO F. BITTEL",
+            "rol": "Candidato a Vicepresidente de la República",
+            "descripcion": "Retrato frontal, calvo, con bigote"
+          }
+        ]
+      },
+      "estilo_visual": {
+        "esquema_color": "Blanco y negro",
+        "tipo_documento": "Folleto impreso o volante",
+        "disposicion": "Estructura jerárquica con encabezado superior, imagen central grande y dos imágenes inferiores inclinadas"
+      },
+      "tipografia": "Sans-serif, negrita para títulos, romana para etiquetas de nombres"
+    }
+  },
+  {
+    "id_afiche": "f37_4",
+    "caracteristicas": {
+      "texto_principal": "TODAVIA NOS DA EL CUERO LUDER PRESIDENTE",
+      "texto_secundario": "AGRUPACION METROPOLITANA 17 DE OCTUBRE",
+      "colores": [
+        "azul oscuro",
+        "blanco",
+        "azul claro"
+      ],
+      "tipografia": "manual/artesanal",
+      "elementos_visuales": "flecha dibujada debajo de la palabra PRESIDENTE apuntando hacia abajo",
+      "composicion": "texto centrado con efecto de borde o sombra en las letras",
+      "tipo_de_soporte": "cartel de tela o banner de tela"
+    }
+  },
+  {
+    "id_afiche": "f37_5",
+    "caracteristicas": {
+      "encabezado": "Porque hay que votar al PERONISMO",
+      "cuerpo_texto": "Texto organizado en dos columnas con ocho puntos argumentativos enumerados con viñetas, seguido de un párrafo final de cierre programático.",
+      "listas_electorales": [
+        "Lista 2"
+      ],
+      "candidatos": [
+        "LUDER",
+        "BITTEL",
+        "Ruckauf",
+        "Taccone"
+      ],
+      "cargo_mencionado": "SENADOR NACIONAL",
+      "partido_movimiento": "MOVIMIENTO NACIONAL JUSTICIALISTA",
+      "elementos_graficos": {
+        "firma": "Firma manuscrita sobre el nombre de Juan Jose Taccone",
+        "tipo_de_pieza": "Aviso publicitario en prensa gráfica"
+      },
+      "fuente_publicacion": {
+        "diario": "CLARIN",
+        "fecha": "viernes 28 de octubre de 1983",
+        "pagina": "31"
+      },
+      "estilo_visual": {
+        "colores": "Blanco y negro",
+        "tipografia": "Serif y Sans-serif"
+      },
+      "adhesion": "Adhesión Grupos de Trabajo Justicialistas"
+    }
+  },
+  {
+    "id_afiche": "f38_1",
+    "caracteristicas": {
+      "encabezado": "JUNTOS, PARA QUE LA PROVINCIA GANE.",
+      "personas": [
+        {
+          "descripcion": "Hombre de tez clara, lentes, traje y corbata"
+        },
+        {
+          "descripcion": "Hombre con bigote, traje y corbata"
+        },
+        {
+          "descripcion": "Mujer con saco"
+        }
+      ],
+      "textos_adicionales": [
+        "VOTE LISTA 3",
+        "RA",
+        "RAUL ALFONSIN",
+        "U.C.R.",
+        "ARMENDARIZ-ROULET"
+      ],
+      "simbolos": [
+        {
+          "tipo": "Escudo",
+          "descripcion": "Escudo de la U.C.R. en la solapa de la mujer"
+        },
+        {
+          "tipo": "Forma ovalada",
+          "contenido": "RA / RAUL ALFONSIN"
+        }
+      ],
+      "estilo_visual": "Fotografía en blanco y negro, alto contraste",
+      "tipografia": "Sans-serif negrita, estilo de prensa gráfica"
+    }
+  }
+]

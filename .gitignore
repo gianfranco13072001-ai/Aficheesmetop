@@ -1,0 +1,12 @@
+# Imágenes de los afiches: se vuelven a generar ejecutando 01_descarga.ipynb
+imagenes/
+
+# Primer intento descartado (el agente escribía las filas como código y se cortó en 10)
+analisis_regresion.py
+
+# Guía de estudio personal: no forma parte del trabajo
+guia_codigo.html
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
